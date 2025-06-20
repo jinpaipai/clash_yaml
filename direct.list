@@ -54,3 +54,8 @@ DOMAIN-KEYWORD,app.fing.com
 DOMAIN-KEYWORD,ndt-mlab1-dfw05.mlab-oti.measurement-lab.org
 DOMAIN-KEYWORD,mlab-oti.measurement-lab.org
 DOMAIN-KEYWORD,api.fing.io
+#bilibili
+DOMAIN-SUFFIX,bilivideo.com 
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,szbdyd.com
