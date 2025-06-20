@@ -24,3 +24,6 @@ DOMAIN,api.coolapk.com
 DOMAIN,api2.coolapk.com
 # TapTap 
 DOMAIN,api.taptapdada.com
+#斗鱼
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyu.com
