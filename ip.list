@@ -1,0 +1,26 @@
+#Bilibili
+DOMAIN-SUFFIX,biliapi.net  
+DOMAIN,api.bilibili.tv 
+DOMAIN-SUFFIX,biliapi.com 
+IP-CIDR,203.107.1.0/24
+#贴吧
+DOMAIN,tieba.baidu.com 
+DOMAIN,tbmsg.baidu.com
+DOMAIN,tb5.bdstatic.com 
+DOMAIN,fclog.baidu.com 
+DOMAIN,gsp0.baidu.com 
+DOMAIN,hm.baidu.com 
+DOMAIN,www.baidu.com 
+DOMAIN,tiebac.baidu.com 
+IP-CIDR,180.76.76.0/24
+DOMAIN,httpsdns.baidu.com
+DOMAIN,c.tieba.baidu.com
+DOMAIN,httpdns.baidu.com
+DOMAIN,httpdns.baidubce.com
+#头条
+DOMAIN-SUFFIX,toutiaoapi.com
+#贴吧
+DOMAIN,api.coolapk.com
+DOMAIN,api2.coolapk.com
+# TapTap 
+DOMAIN,api.taptapdada.com
