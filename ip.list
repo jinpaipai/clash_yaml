@@ -27,3 +27,9 @@ DOMAIN,api.taptapdada.com
 #斗鱼
 DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,douyu.com
+ # 知乎
+DOMAIN,zhihu-web-analytics.zhihu.com
+DOMAIN,www.zhihu.com
+DOMAIN,api.zhihu.com 
+DOMAIN-SUFFIX,zhihu.com 
+IP-CIDR,103.41.167.0/24 
