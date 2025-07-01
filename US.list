@@ -35,3 +35,5 @@ DOMAIN-SUFFIX,www.blueskyxn.com
 DOMAIN-SUFFIX,vps.hosting
 #theync
 DOMAIN-SUFFIX,theync.com
+#firefox
+DOMAIN-SUFFIX,mozilla.org
