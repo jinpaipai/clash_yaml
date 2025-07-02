@@ -78,3 +78,5 @@ DOMAIN-SUFFIX,img.douyucdn.cn
 #----斗鱼直播流 
 #verycapure api
 DOMAIN,api.verycapture.com
+#电视资源
+DOMAIN-SUFFIX,q19jcg.com
