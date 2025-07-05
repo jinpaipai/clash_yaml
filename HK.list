@@ -20,7 +20,7 @@ PROCESS-NAME,BF2042Trial.exe
 PROCESS-NAME,BF2042_launcher.exe
 #GTAV
 PROCESS-NAME,PlayHK.exe
-PROCESS-NAMELauncher.exe
+PROCESS-NAME,Launcher.exe
 PROCESS-NAME,LanguageSelect.exe
 PROCESS-NAME,GTA5.exe
 PROCESS-NAME,RockstarService.exe
