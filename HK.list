@@ -106,3 +106,5 @@ PROCESS-NAME,com.ea.HK.pvz2_na
 #-----游戏------#
 #canva
 DOMAIN-KEYWORD,canva.com
+#verycapure api
+DOMAIN,api.verycapture.com
