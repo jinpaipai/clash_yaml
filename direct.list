@@ -79,13 +79,6 @@ DOMAIN-SUFFIX,img.douyucdn.cn
 #verycapure api
 DOMAIN,api.verycapture.com
 #电视资源
-DOMAIN-SUFFIX,q19jcg.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,ffzyread1.com
-DOMAIN-SUFFIX,jundie.top
-DOMAIN-SUFFIX,wwgz.cn
-DOMAIN-SUFFIX,doubanio.com
-DOMAIN-SUFFIX,korfo.org
 DOMAIN-SUFFIX,cdnlz1.com
 DOMAIN-SUFFIX,cdnlz2.com
 DOMAIN-SUFFIX,cdnlz3.com
@@ -123,6 +116,13 @@ DOMAIN-SUFFIX,lz-cdn12.com
 DOMAIN-SUFFIX,lz-cdn13.com
 DOMAIN-SUFFIX,lz-cdn14.com
 DOMAIN-SUFFIX,lz-cdn15.com
+DOMAIN-SUFFIX,q19jcg.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ffzyread1.com
+DOMAIN-SUFFIX,jundie.top
+DOMAIN-SUFFIX,wwgz.cn
+DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,korfo.org
 DOMAIN-SUFFIX,tlkqc.com
 DOMAIN-SUFFIX,wlcdn88.com
 DOMAIN-SUFFIX,bbcdef.xyz
@@ -130,3 +130,4 @@ DOMAIN-SUFFIX,wgslsw.com
 DOMAIN-SUFFIX,yhzybf.com
 DOMAIN-SUFFIX,fentvoss.com
 DOMAIN-SUFFIX,bbcdef.xyz
+DOMAIN-SUFFIX,cddefg.top
