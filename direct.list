@@ -76,8 +76,6 @@ DOMAIN-SUFFIX,danmuproxy.douyu.com
 #direct图片
 DOMAIN-SUFFIX,img.douyucdn.cn
 #----斗鱼直播流 
-#verycapure api
-DOMAIN,api.verycapture.com
 #电视资源
 DOMAIN-SUFFIX,lzcdn1.com
 DOMAIN-SUFFIX,lzcdn2.com
