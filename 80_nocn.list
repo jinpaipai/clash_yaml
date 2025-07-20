@@ -1,0 +1,2 @@
+AND,(DST-PORT,80),(NOT,((RULE-SET,cn_ip)))
+AND,(DST-PORT,80),(NOT,((RULE-SET,cn_domain)))
