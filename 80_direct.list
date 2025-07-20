@@ -1,9 +1,9 @@
 #厂里官网
-DOMAIN-SUFFIX,csust.edu.cn
++.csust.edu.cn
 #CFHD下载
-DOMAIN-SUFFIX,repo.cfhd.cf.qq.com
++.repo.cfhd.cf.qq.com
 #ubisoft下载
-DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
++.uplaypc-s-ubisoft.cdn.ubi.com
 #酷我酷狗
 +.koowo.cn
 +.koowo.com
