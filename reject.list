@@ -1,19 +1,6 @@
 #国家诈骗中心
 DOMAIN-SUFFIX,gjfzpt.cn
 IP-CIDR,219.143.187.136/32
-# ======= MIUI ======= #
-# 应用包管理组件API
-DOMAIN,api.installer.xiaomi.com
-DOMAIN,tracking.miui.com
-DOMAIN,tracking.intl.miui.com
-DOMAIN,tracking.rus.miui.com
-DOMAIN,tracking.india.miui.com
-# 病毒扫描
-DOMAIN-SUFFIX,sec.miui.com
-DOMAIN-SUFFIX,sec.intl.miui.com
-DOMAIN,api.sec.miui.com
-DOMAIN,staging.sec.miui.com
-DOMAIN,a0.app.xiaomi.com
 #MIUI更新
 DOMAIN-SUFFIX,bigota.d.miui.com
 DOMAIN-SUFFIX,update.miui.com
