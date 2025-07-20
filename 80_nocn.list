@@ -1,2 +1,1 @@
-AND,(DST-PORT,80),(NOT,((RULE-SET,cn_ip)))
-AND,(DST-PORT,80),(NOT,((RULE-SET,cn_domain)))
+AND,(AND,(AND,(AND,(AND,(DST-PORT,80),(NOT,((RULE-SET,cn_domain)))),(NOT,((RULE-SET,cn_ip)))),(NOT,((GEOIP,CN)))),(NOT,((DOMAIN-SUFFIX,cn)))),(NOT,((DOMAIN-KEYWORD,-cn)))
