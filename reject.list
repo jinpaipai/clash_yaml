@@ -25,3 +25,9 @@ IP-CIDR,114.116.215.110/32
 IP-CIDR,116.63.10.31/32
 IP-CIDR,112.64.218.119/32
 IP-CIDR,112.65.200.117/32
+
+#------80端口屏蔽
+#王者荣耀更新
+DOMAIN,downupdate.ydcdn.tcdnos.com
+DOMAIN,downupdate.aly.tcdnos.com
+DOMAIN,hwyupdate.ll.tcdnos.com
