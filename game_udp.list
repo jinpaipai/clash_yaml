@@ -1,0 +1,1 @@
+AND,(AND,(NETWORK,UDP),(NOT,((RULE-SET,cn_ip)))),(NOT,((DST-PORT,443)))
