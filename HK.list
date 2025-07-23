@@ -1,14 +1,12 @@
 #steamdb
-DOMAIN-SUFFIX,steamdb.info
-#游戏下载2
-DOMAIN-KEYWORD,origin-a.akamaihd.net
++.steamdb.info
 #canva
-DOMAIN-KEYWORD,canva.com
++.canva.com
 #verycapure api
-DOMAIN,api.verycapture.com
+api.verycapture.com
 #饭太硬导航
-DOMAIN,www.xn--sss604efuw.com
+www.xn--sss604efuw.com
 #香港伪装
-DOMAIN-SUFFIX,jinsu-tech.com
++.jinsu-tech.com
 #deepseek
-DOMAIN-SUFFIX,deepseek.com
++.deepseek.com
