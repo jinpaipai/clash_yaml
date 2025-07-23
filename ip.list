@@ -1,32 +1,33 @@
 #Bilibili
-+.biliapi.net  
-api.bilibili.tv 
-+.biliapi.com 
+- DOMAIN-SUFFIX,biliapi.net
+- IP-CIDR,203.107.1.0/24 
+- DOMAIN,api.bilibili.tv 
+- DOMAIN-SUFFIX,biliapi.com 
 #贴吧
-tieba.baidu.com 
-tbmsg.baidu.com
-tb5.bdstatic.com 
-fclog.baidu.com 
-gsp0.baidu.com 
-hm.baidu.com 
-www.baidu.com 
-tiebac.baidu.com 
-httpsdns.baidu.com
-c.tieba.baidu.com
-httpdns.baidu.com
-httpdns.baidubce.com
+- DOMAIN,tieba.baidu.com 
+- DOMAIN,tbmsg.baidu.com
+- DOMAIN,tb5.bdstatic.com 
+- DOMAIN,fclog.baidu.com 
+- DOMAIN,gsp0.baidu.com 
+- DOMAIN,hm.baidu.com 
+- DOMAIN,www.baidu.com 
+- DOMAIN,tiebac.baidu.com 
+- DOMAIN,httpsdns.baidu.com
+- DOMAIN,c.tieba.baidu.com
+- DOMAIN,httpdns.baidu.com
+- DOMAIN,httpdns.baidubce.com
 #头条
-+.toutiaoapi.com
+- DOMAIN-SUFFIX,toutiaoapi.com
 #贴吧
-api.coolapk.com
-api2.coolapk.com
+- DOMAIN,api.coolapk.com
+- DOMAIN,api2.coolapk.com
 # TapTap 
-api.taptapdada.com
+- DOMAIN,api.taptapdada.com
 #斗鱼
-+.douyucdn.cn
-+.douyu.com
+- DOMAIN-SUFFIX,douyucdn.cn
+- DOMAIN-SUFFIX,douyu.com
  # 知乎
-zhihu-web-analytics.zhihu.com
-www.zhihu.com
-api.zhihu.com 
-+.zhihu.com 
+- DOMAIN,zhihu-web-analytics.zhihu.com
+- DOMAIN,www.zhihu.com
+- DOMAIN,api.zhihu.com 
+- DOMAIN-SUFFIX,zhihu.com

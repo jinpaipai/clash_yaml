@@ -1,150 +1,160 @@
 #QQ词库
-+.cdict.qq.pinyin.cn
+- DOMAIN-SUFFIX,cdict.qq.pinyin.cn
 #视频
-+.lz-cdn3.com
+- DOMAIN-SUFFIX,lz-cdn3.com
 #迅雷下载
-+.wap.sandai.net
+- DOMAIN-SUFFIX,wap.sandai.net
 #虚拟visa卡
-+.fomepay.com
+- DOMAIN-SUFFIX,fomepay.com
 #美团微信小程序
-+.p0.meituan.net
+- DOMAIN-SUFFIX,p0.meituan.net
 #limewave 
-+.limewave.net
+- DOMAIN-SUFFIX,limewave.net
 #Fydeos系统
-+.fydeos.com
-+.fydeos.io
+- DOMAIN-SUFFIX,fydeos.com
+- DOMAIN-SUFFIX,fydeos.io
 #甲骨文
-+.oracle.com
+- DOMAIN-SUFFIX,oracle.com
 #机场网站
-+.xn--ehq00hgtfdmt.xyz
-+.dellcomputer.online
-+.xn--30q31nc3o033b.com
+- DOMAIN-SUFFIX,xn--ehq00hgtfdmt.xyz
+- DOMAIN-SUFFIX,dellcomputer.online
+- DOMAIN-SUFFIX,xn--30q31nc3o033b.com
 #openwrt定制固件下载
-+.dl.openwrt.ai
+- DOMAIN-SUFFIX,dl.openwrt.ai
 #wechat
-+.qlogo.cn
-+.qpic.cn
-+.servicewechat.com
-+.tenpay.com
-+.wechat.com
-+.wechatlegal.net
-+.wechatpay.com
-+.weixin.com
-+.weixin.qq.com
-+.weixinbridge.com
-+.weixinsxy.com
-+.wxapp.tc.qq.com
+- DOMAIN-SUFFIX,qlogo.cn
+- DOMAIN-SUFFIX,qpic.cn
+- DOMAIN-SUFFIX,servicewechat.com
+- DOMAIN-SUFFIX,tenpay.com
+- DOMAIN-SUFFIX,wechat.com
+- DOMAIN-SUFFIX,wechatlegal.net
+- DOMAIN-SUFFIX,wechatpay.com
+- DOMAIN-SUFFIX,weixin.com
+- DOMAIN-SUFFIX,weixin.qq.com
+- DOMAIN-SUFFIX,weixinbridge.com
+- DOMAIN-SUFFIX,weixinsxy.com
+- DOMAIN-SUFFIX,wxapp.tc.qq.com
+- IP-CIDR,101.32.104.4/32
+- IP-CIDR,101.32.104.41/32
+- IP-CIDR,101.32.104.56/32
+- IP-CIDR,101.32.118.25/32
+- IP-CIDR,101.32.133.16/32
+- IP-CIDR,101.32.133.209/32
+- IP-CIDR,101.32.133.53/32
+- IP-CIDR,129.226.107.244/32
+- IP-CIDR,129.226.3.47/32
+- IP-CIDR,162.62.163.63/32
 #bilibili
-+.bilivideo.com 
-+.akamaized.net
-+.hdslb.com
-+.szbdyd.com
+- DOMAIN-SUFFIX,bilivideo.com 
+- DOMAIN-SUFFIX,akamaized.net
+- DOMAIN-SUFFIX,hdslb.com
+- DOMAIN-SUFFIX,szbdyd.com
 #----斗鱼直播流 
-+.hls3-akm.douyucdn.cn
-+.hlsa-akm.douyucdn.cn
-+.hls1a-akm.douyucdn.cn
-+.hls3a-akm.douyucdn.cn
-+.vplay1a.douyucdn.cn
-+.vplay3a.douyucdn.cn
-+.ws-tct.douyucdn.cn
-+.akm-tct.douyucdn.cn
-+.tx2play1.douyucdn.cn
-+.tc-tct1.douyucdn.cn
+- DOMAIN-SUFFIX,hls3-akm.douyucdn.cn
+- DOMAIN-SUFFIX,hlsa-akm.douyucdn.cn
+- DOMAIN-SUFFIX,hls1a-akm.douyucdn.cn
+- DOMAIN-SUFFIX,hls3a-akm.douyucdn.cn
+- DOMAIN-SUFFIX,vplay1a.douyucdn.cn
+- DOMAIN-SUFFIX,vplay3a.douyucdn.cn
+- DOMAIN-SUFFIX,ws-tct.douyucdn.cn
+- DOMAIN-SUFFIX,akm-tct.douyucdn.cn
+- DOMAIN-SUFFIX,tx2play1.douyucdn.cn
+- DOMAIN-SUFFIX,tc-tct1.douyucdn.cn
 #direct弹幕
-+.wsproxy.douyu.com
-+.danmuproxy.douyu.com
+- DOMAIN-SUFFIX,wsproxy.douyu.com
+- DOMAIN-SUFFIX,danmuproxy.douyu.com
 #direct图片
-+.img.douyucdn.cn
+- DOMAIN-SUFFIX,img.douyucdn.cn
 #----斗鱼直播流 
 #电视资源
-+.lzcdn1.com
-+.lzcdn2.com
-+.lzcdn3.com
-+.lzcdn4.com
-+.lzcdn5.com
-+.lzcdn6.com
-+.lzcdn7.com
-+.lzcdn8.com
-+.lzcdn9.com
-+.lzcdn10.com
-+.lzcdn11.com
-+.lzcdn12.com
-+.lzcdn13.com
-+.lzcdn14.com
-+.lzcdn15.com
-+.lzcdn16.com
-+.lzcdn17.com
-+.lzcdn18.com
-+.lzcdn19.com
-+.lzcdn20.com
-+.lzcdn21.com
-+.lzcdn22.com
-+.lzcdn23.com
-+.lzcdn24.com
-+.lzcdn25.com
-+.cdnlz1.com
-+.cdnlz2.com
-+.cdnlz3.com
-+.cdnlz4.com
-+.cdnlz5.com
-+.cdnlz6.com
-+.cdnlz7.com
-+.cdnlz8.com
-+.cdnlz9.com
-+.cdnlz10.com
-+.cdnlz11.com
-+.cdnlz12.com
-+.cdnlz13.com
-+.cdnlz14.com
-+.cdnlz15.com
-+.cdnlz16.com
-+.cdnlz17.com
-+.cdnlz18.com
-+.cdnlz19.com
-+.cdnlz20.com
-+.cdnlz21.com
-+.cdnlz22.com
-+.lz-cdn1.com
-+.lz-cdn2.com
-+.lz-cdn3.com
-+.lz-cdn4.com
-+.lz-cdn5.com
-+.lz-cdn6.com
-+.lz-cdn7.com
-+.lz-cdn8.com
-+.lz-cdn9.com
-+.lz-cdn10.com
-+.lz-cdn11.com
-+.lz-cdn12.com
-+.lz-cdn13.com
-+.lz-cdn14.com
-+.lz-cdn15.com
-+.vwxy01.xyz
-+.q19jcg.com
-+.ibyteimg.com
-+.ffzyread1.com
-+.jundie.top
-+.wwgz.cn
-+.doubanio.com
-+.korfo.org
-+.tlkqc.com
-+.wlcdn88.com
-+.bbcdef.xyz
-+.wgslsw.com
-+.yhzybf.com
-+.fentvoss.com
-+.bbcdef.xyz
-+.cddefg.top
-+.apiyhzy.com
-+.lziapi.com
-+.sdzyapi.com
-+.ffzy.tv
-+.wujinapi.me
-+.wolongzyw.com
-+.oprtuv.top
-+.kkzycdn.com
-+.ffzy-online5.com
+- DOMAIN-SUFFIX,lzcdn1.com
+- DOMAIN-SUFFIX,lzcdn2.com
+- DOMAIN-SUFFIX,lzcdn3.com
+- DOMAIN-SUFFIX,lzcdn4.com
+- DOMAIN-SUFFIX,lzcdn5.com
+- DOMAIN-SUFFIX,lzcdn6.com
+- DOMAIN-SUFFIX,lzcdn7.com
+- DOMAIN-SUFFIX,lzcdn8.com
+- DOMAIN-SUFFIX,lzcdn9.com
+- DOMAIN-SUFFIX,lzcdn10.com
+- DOMAIN-SUFFIX,lzcdn11.com
+- DOMAIN-SUFFIX,lzcdn12.com
+- DOMAIN-SUFFIX,lzcdn13.com
+- DOMAIN-SUFFIX,lzcdn14.com
+- DOMAIN-SUFFIX,lzcdn15.com
+- DOMAIN-SUFFIX,lzcdn16.com
+- DOMAIN-SUFFIX,lzcdn17.com
+- DOMAIN-SUFFIX,lzcdn18.com
+- DOMAIN-SUFFIX,lzcdn19.com
+- DOMAIN-SUFFIX,lzcdn20.com
+- DOMAIN-SUFFIX,lzcdn21.com
+- DOMAIN-SUFFIX,lzcdn22.com
+- DOMAIN-SUFFIX,lzcdn23.com
+- DOMAIN-SUFFIX,lzcdn24.com
+- DOMAIN-SUFFIX,lzcdn25.com
+- DOMAIN-SUFFIX,cdnlz1.com
+- DOMAIN-SUFFIX,cdnlz2.com
+- DOMAIN-SUFFIX,cdnlz3.com
+- DOMAIN-SUFFIX,cdnlz4.com
+- DOMAIN-SUFFIX,cdnlz5.com
+- DOMAIN-SUFFIX,cdnlz6.com
+- DOMAIN-SUFFIX,cdnlz7.com
+- DOMAIN-SUFFIX,cdnlz8.com
+- DOMAIN-SUFFIX,cdnlz9.com
+- DOMAIN-SUFFIX,cdnlz10.com
+- DOMAIN-SUFFIX,cdnlz11.com
+- DOMAIN-SUFFIX,cdnlz12.com
+- DOMAIN-SUFFIX,cdnlz13.com
+- DOMAIN-SUFFIX,cdnlz14.com
+- DOMAIN-SUFFIX,cdnlz15.com
+- DOMAIN-SUFFIX,cdnlz16.com
+- DOMAIN-SUFFIX,cdnlz17.com
+- DOMAIN-SUFFIX,cdnlz18.com
+- DOMAIN-SUFFIX,cdnlz19.com
+- DOMAIN-SUFFIX,cdnlz20.com
+- DOMAIN-SUFFIX,cdnlz21.com
+- DOMAIN-SUFFIX,cdnlz22.com
+- DOMAIN-SUFFIX,lz-cdn1.com
+- DOMAIN-SUFFIX,lz-cdn2.com
+- DOMAIN-SUFFIX,lz-cdn3.com
+- DOMAIN-SUFFIX,lz-cdn4.com
+- DOMAIN-SUFFIX,lz-cdn5.com
+- DOMAIN-SUFFIX,lz-cdn6.com
+- DOMAIN-SUFFIX,lz-cdn7.com
+- DOMAIN-SUFFIX,lz-cdn8.com
+- DOMAIN-SUFFIX,lz-cdn9.com
+- DOMAIN-SUFFIX,lz-cdn10.com
+- DOMAIN-SUFFIX,lz-cdn11.com
+- DOMAIN-SUFFIX,lz-cdn12.com
+- DOMAIN-SUFFIX,lz-cdn13.com
+- DOMAIN-SUFFIX,lz-cdn14.com
+- DOMAIN-SUFFIX,lz-cdn15.com
+- DOMAIN-SUFFIX,vwxy01.xyz
+- DOMAIN-SUFFIX,q19jcg.com
+- DOMAIN-SUFFIX,ibyteimg.com
+- DOMAIN-SUFFIX,ffzyread1.com
+- DOMAIN-SUFFIX,jundie.top
+- DOMAIN-SUFFIX,wwgz.cn
+- DOMAIN-SUFFIX,doubanio.com
+- DOMAIN-SUFFIX,korfo.org
+- DOMAIN-SUFFIX,tlkqc.com
+- DOMAIN-SUFFIX,wlcdn88.com
+- DOMAIN-SUFFIX,bbcdef.xyz
+- DOMAIN-SUFFIX,wgslsw.com
+- DOMAIN-SUFFIX,yhzybf.com
+- DOMAIN-SUFFIX,fentvoss.com
+- DOMAIN-SUFFIX,bbcdef.xyz
+- DOMAIN-SUFFIX,cddefg.top
+- DOMAIN-SUFFIX,apiyhzy.com
+- DOMAIN-SUFFIX,lziapi.com
+- DOMAIN-SUFFIX,sdzyapi.com
+- DOMAIN-SUFFIX,ffzy.tv
+- DOMAIN-SUFFIX,wujinapi.me
+- DOMAIN-SUFFIX,wolongzyw.com
+- DOMAIN-SUFFIX,oprtuv.top
+- DOMAIN-SUFFIX,kkzycdn.com
+- DOMAIN-SUFFIX,ffzy-online5.com
 #线刷包下载
-+.aliyuncs.com
+- DOMAIN-SUFFIX,aliyuncs.com
 #aria
-+.avira.com
+- DOMAIN-SUFFIX,avira.com

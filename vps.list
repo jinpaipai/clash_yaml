@@ -1,2 +1,4 @@
-+.jinpaipai.top
-+.jinpaipai.fun
+- DOMAIN-SUFFIX,jinpaipai.top
+- DOMAIN-SUFFIX,jinpaipai.fun
+- IP-CIDR,45.140.88.143/32
+- IP-CIDR,151.242.73.36/32
