@@ -1,12 +1,12 @@
 #steamdb
-+.steamdb.info
+DOMAIN-SUFFIX,steamdb.info
 #canva
-+.canva.com
+DOMAIN-SUFFIX,canva.com
 #verycapure api
-api.verycapture.com
+DOMAIN,api.verycapture.com
 #饭太硬导航
 www.xn--sss604efuw.com
 #香港伪装
-+.jinsu-tech.com
+DOMAIN-SUFFIX,jinsu-tech.com
 #deepseek
-+.deepseek.com
+DOMAIN-SUFFIX,deepseek.com
