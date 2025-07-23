@@ -2,7 +2,6 @@
 +.biliapi.net  
 api.bilibili.tv 
 +.biliapi.com 
-203.107.1.0/24
 #贴吧
 tieba.baidu.com 
 tbmsg.baidu.com
@@ -12,7 +11,6 @@ gsp0.baidu.com
 hm.baidu.com 
 www.baidu.com 
 tiebac.baidu.com 
-180.76.76.0/24
 httpsdns.baidu.com
 c.tieba.baidu.com
 httpdns.baidu.com
@@ -32,4 +30,3 @@ zhihu-web-analytics.zhihu.com
 www.zhihu.com
 api.zhihu.com 
 +.zhihu.com 
-103.41.167.0/24
