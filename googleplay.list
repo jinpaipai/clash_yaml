@@ -1,5 +1,4 @@
 #谷歌应用商店
-PROCESS-NAME,com.android.vending
-DOMAIN,services.googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,services.googleapis.cn
+services.googleapis.cn
++.xn--ngstr-lra8j.com
++.services.googleapis.cn
