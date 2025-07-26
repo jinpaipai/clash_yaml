@@ -60,6 +60,9 @@ fastly-download.epicgames.com
 
 #Xbox
 +.assets1.xboxlive.com
++.assets2.xboxlive.com
++.d1.xboxlive.com
++.d2.xboxlive.com
 
 #Debian
 +.saimei.ftp.acc.umu.se
