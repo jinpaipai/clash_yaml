@@ -5,5 +5,3 @@ AND,(DST-PORT,80),(DOMAIN-KEYWORD,-cn)
 AND,(DST-PORT,80),(RULE-SET,cn_ip)
 AND,(DST-PORT,80),(RULE-SET,direct_list)
 AND,(DST-PORT,80),(RULE-SET,gamedownload_list)
-#三角洲
-DOMAIN,download.dgameglobal.com
