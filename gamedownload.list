@@ -7,21 +7,13 @@ fastly-download.epicgames.com
 +.hw-pcdownload-akamai.aki-game.net
 
 #ubisoft
-+.ubisoftconnect.cdn.ubi.com
-+.ubisoftconnect.eo-edgefunctions7.com
+ubisoftconnect.cdn.ubi.com
+ubisoftconnect.eo-edgefunctions7.com
 +.uplaypc-s-ubisoft.cdn.ubi.com
 
 #gal
 +.galgame.ing
 +.download.sgameglobal.com
-
-#Nvidia驱动
-+.download.nvidia.com
-+.images.nvidia.com
-+.international-gfe.download.nvidia.com
-
-#AMD驱动
-+.drivers.amd.com
 
 #网易下载
 +.gph.easebar.com
@@ -51,34 +43,15 @@ fastly-download.epicgames.com
 +.encdn.ldmnq.com
 +.cdn.ldplayer.net
 
-#微软
-+.f.c2r.ts.cdn.office.net
-+.msedge.sf.dl.delivery.mp.microsoft.com
-+.download.visualstudio.microsoft.com
-+.tlu.dl.delivery.mp.microsoft.com
-+.software.download.prss.microsoft.com
-
 #Xbox
 +.assets1.xboxlive.com
 +.assets2.xboxlive.com
 +.d1.xboxlive.com
 +.d2.xboxlive.com
 
-#Debian
-+.saimei.ftp.acc.umu.se
-
-#罗技更新
-+.updates.ghub.logitechg.com
-
 #麻将
 +.redstone-launcher.mojang.com
 +.launcher.mojang.com
-
-#微星
-+.download.msi.com
-
-#intel
-+.downloadmirror.intel.com
 
 #R星
 +.ks-foundation.secure.dyn.riotcdn.net
