@@ -2,21 +2,10 @@
 fastly-download.epicgames.com
 +.epicgamesdownload11251447533.file.myqcloud.com
 
-#鸣潮
-+.hw-pcdownload-aliyun.aki-game.net
-+.hw-pcdownload-akamai.aki-game.net
-
 #ubisoft
 ubisoftconnect.cdn.ubi.com
 ubisoftconnect.eo-edgefunctions7.com
 +.uplaypc-s-ubisoft.cdn.ubi.com
-
-#gal
-+.galgame.ing
-+.download.sgameglobal.com
-
-#网易下载
-+.gph.easebar.com
 
 #Steam下载
 +.steamserver.net
@@ -36,22 +25,11 @@ ubisoftconnect.eo-edgefunctions7.com
 +.cdnali.content.steamchina.com
 +.steamusercontenta.akamaihd.net
 
-#绝区零
-+.autopatchos.zenlesszonezero.com
-
-#雷电模拟器
-+.encdn.ldmnq.com
-+.cdn.ldplayer.net
-
 #Xbox
 +.assets1.xboxlive.com
 +.assets2.xboxlive.com
 +.d1.xboxlive.com
 +.d2.xboxlive.com
-
-#麻将
-+.redstone-launcher.mojang.com
-+.launcher.mojang.com
 
 #R星
 +.ks-foundation.secure.dyn.riotcdn.net
@@ -59,13 +37,14 @@ ubisoftconnect.eo-edgefunctions7.com
 +.content.cfx.re
 +.gamedownloadsrockstargamescom.akamaized.net
 
-#原神
-+.autopatchhk.yuanshen.com
-
 #EA
 +.ssllvlt.cdn.ea.com
 +.ssl-lvlt.cdn.ea.com
 +.origina.akamaihd.net
+
+#麻将
++.redstone-launcher.mojang.com
++.launcher.mojang.com
 
 #战网
 +.client05.pdl.wow.battlenet.com.cn
@@ -74,3 +53,27 @@ ubisoftconnect.eo-edgefunctions7.com
 
 #GOG
 +.gog.qtlglb.com
+
+#雷电模拟器
++.encdn.ldmnq.com
++.cdn.ldplayer.net
+
+#三角洲行动
+download.dgameglobal.com
+
+#网易下载
++.gph.easebar.com
+
+#绝区零
++.autopatchos.zenlesszonezero.com
+
+#原神
++.autopatchhk.yuanshen.com
+
+#鸣潮
++.hw-pcdownload-aliyun.aki-game.net
++.hw-pcdownload-akamai.aki-game.net
+
+#gal
++.galgame.ing
++.download.sgameglobal.com
