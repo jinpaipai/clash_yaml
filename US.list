@@ -65,6 +65,3 @@ DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,sentry.prod.mozaws.net
-
-#美国伪装
-DOMAIN-SUFFIX,ada-quest.com
