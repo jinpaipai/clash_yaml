@@ -57,10 +57,6 @@ DOMAIN-SUFFIX,fydeos.io
 #甲骨文
 DOMAIN-SUFFIX,oracle.com
 
-#=====机场网站
-  #三分
-DOMAIN-SUFFIX,xn--ehq00hgtfdmt.xyz
-
 #openwrt定制固件下载
 DOMAIN-SUFFIX,dl.openwrt.ai
 
