@@ -1,3 +1,7 @@
+#e5脚本
+DOMAIN,login.microsoftonline.com
+DOMAIN,graph.microsoft.com
+
 #伪装网站
 DOMAIN-SUFFIX,jinsu-tech.com
 DOMAIN-SUFFIX,ada-quest.com
