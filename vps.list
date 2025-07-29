@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,paipaijin.dpdns.org
 DOMAIN-SUFFIX,jinpaipai.qzz.io
 
 #lisahost  HK
-IP-CIDR,154.64.246.174/32
+IP-CIDR,154.64.246.89/32
 
 #US
 IP-CIDR,45.140.88.143/32
