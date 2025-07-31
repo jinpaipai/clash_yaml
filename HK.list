@@ -1,3 +1,6 @@
+#R星检测
+DOMAIN,recaptcha.net
+
 #steamdb
 DOMAIN-SUFFIX,steamdb.info
 
