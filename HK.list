@@ -1,3 +1,10 @@
+#DNS
+DOMAIN,cloudflare-dns.com
+DOMAIN,doh.opendns.com
+DOMAIN,dns.adguard.com
+DOMAIN,dns.quad9.net
+DOMAIN,dns.google
+
 #steamdb
 DOMAIN-SUFFIX,steamdb.info
 
