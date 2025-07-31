@@ -225,6 +225,17 @@ rtm.tnt-ea.com
 ssl-lvlt.cdn.ea.com
 +.origin.com
 
+#R星平台
+#R星
++.videos-rockstargames-com.akamaized.net
++.gamedownloads-rockstargames-com.akamaized.net
++.media-rockstargames-com.akamaized.net
++.rockstargames.com
++.rsg.sc
++.videos-rockstargames-com.akamaized.net
++.ingest.sentry.io
+recaptcha.net
+
 #战网
 blizzard.nefficient.co.kr
 blzddist1-a.akamaihd.net
