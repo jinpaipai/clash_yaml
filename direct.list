@@ -4,15 +4,6 @@ IP-CIDR6,2606:4700:4700::1001/128
 IP-CIDR6,2620:74:1b::1:1/128
 IP-CIDR6,2606:4700:4700::1111/128
 
-#R星
-DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
-DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
-DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
-DOMAIN-SUFFIX,rockstargames.com
-DOMAIN-SUFFIX,rsg.sc
-DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
-DOMAIN-SUFFIX,ingest.sentry.io
-
 #机场节点
 DOMAIN-SUFFIX,jueduibupao.top
 DOMAIN-SUFFIX,6bnw.top
