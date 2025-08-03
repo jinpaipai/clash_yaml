@@ -15,3 +15,7 @@ DOMAIN-SUFFIX,deepseek.com
 
 $substracker
 DOMAIN,substraker.paipaijin.dpdns.org
+
+#image
+DOMAIN,image.paipaijin.dpdns.org
+
