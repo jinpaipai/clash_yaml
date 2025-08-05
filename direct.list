@@ -122,21 +122,23 @@ DOMAIN-SUFFIX,img.douyucdn.cn
 #----斗鱼直播流 
 
 #电视资源
-DOMAIN,v16-livesaas-vod.bytepluscdn.com
-DOMAIN,v16m.byteicdn.com
-DOMAIN,v16m.hypstarcdn.com
-DOMAIN,v.lzcdn25.com
-DOMAIN,g.xlzyd.com
-DOMAIN,v10.tlkqc.com
-DOMAIN,v8.gggread.com
-DOMAIN,njc-download.ftn.qq.com
-DOMAIN,dc.xhscdn.com
+DOMAIN-SUFFIX,bytepluscdn.com
+DOMAIN-SUFFIX,byteicdn.com
+DOMAIN-SUFFIX,hypstarcdn.com
+DOMAIN-SUFFIX,lzcdn25.com
+DOMAIN-SUFFIX,xlzyd.com
+DOMAIN-SUFFIX,tlkqc.com
+DOMAIN-SUFFIX,ftn.qq.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,toutiaovod.com
+DOMAIN-SUFFIX,gggread.com
 
 #线刷包下载
 DOMAIN-SUFFIX,aliyuncs.com
 
 #aria
 DOMAIN-SUFFIX,avira.com
+
 
 
 
