@@ -35,12 +35,13 @@ static3.cdn.ubi.com
 +.ks-foundation.secure.dyn.riotcdn.net
 +.riot-client.dyn.riotcdn.net
 +.content.cfx.re
-+.gamedownloadsrockstargamescom.akamaized.net
+gamedownloadsrockstargamescom.akamaized.net
 
 #EA
-+.ssllvlt.cdn.ea.com
-+.ssl-lvlt.cdn.ea.com
-+.origina.akamaihd.net
+ssllvlt.cdn.ea.com
+ssl-lvlt.cdn.ea.com
+origina.akamaihd.net
+origin-a.akamaihd.net
 
 #麻将
 +.redstone-launcher.mojang.com
@@ -77,3 +78,4 @@ download.dgameglobal.com
 #gal
 +.galgame.ing
 +.download.sgameglobal.com
+
