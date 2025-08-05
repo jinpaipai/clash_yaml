@@ -125,12 +125,14 @@ DOMAIN-SUFFIX,img.douyucdn.cn
 DOMAIN,v16-livesaas-vod.bytepluscdn.com
 DOMAIN,v16m.byteicdn.com
 DOMAIN,v16m.hypstarcdn.com
+DOMAIN,v.lzcdn25.com
 
 #线刷包下载
 DOMAIN-SUFFIX,aliyuncs.com
 
 #aria
 DOMAIN-SUFFIX,avira.com
+
 
 
 
