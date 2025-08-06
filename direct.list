@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,images.nvidia.com
 DOMAIN-SUFFIX,international-gfe.download.nvidia.com
 
 #AMD驱动
-DOMAIN-SUFFIX,drivers.amd.com
+DOMAIN,drivers.amd.com
 
 #微软
 DOMAIN-SUFFIX,f.c2r.ts.cdn.office.net
@@ -140,6 +140,7 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #aria
 DOMAIN-SUFFIX,avira.com
+
 
 
 
