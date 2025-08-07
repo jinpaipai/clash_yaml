@@ -1,3 +1,17 @@
+#电视资源
+DOMAIN-SUFFIX,bytepluscdn.com
+DOMAIN-SUFFIX,byteicdn.com
+DOMAIN-SUFFIX,hypstarcdn.com
+DOMAIN-SUFFIX,lzcdn25.com
+DOMAIN-SUFFIX,xlzyd.com
+DOMAIN-SUFFIX,tlkqc.com
+DOMAIN-SUFFIX,ftn.qq.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,toutiaovod.com
+DOMAIN-SUFFIX,gggread.com
+DOMAIN-SUFFIX,vxy0112.xyz
+DOMAIN-SUFFIX,lz-cdn14.com
+
 #pikpak
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,mypikpak.net
@@ -121,33 +135,11 @@ DOMAIN-SUFFIX,danmuproxy.douyu.com
 DOMAIN-SUFFIX,img.douyucdn.cn
 #----斗鱼直播流 
 
-#电视资源
-DOMAIN-SUFFIX,bytepluscdn.com
-DOMAIN-SUFFIX,byteicdn.com
-DOMAIN-SUFFIX,hypstarcdn.com
-DOMAIN-SUFFIX,lzcdn25.com
-DOMAIN-SUFFIX,xlzyd.com
-DOMAIN-SUFFIX,tlkqc.com
-DOMAIN-SUFFIX,ftn.qq.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,toutiaovod.com
-DOMAIN-SUFFIX,gggread.com
-DOMAIN-SUFFIX,vxy0112.xyz
-DOMAIN-SUFFIX,lz-cdn14.com
-
 #线刷包下载
 DOMAIN-SUFFIX,aliyuncs.com
 
 #aria
 DOMAIN-SUFFIX,avira.com
 
-
-
-
-
-
-
-
-
-
-
+#博客
+DOMAIN,www.zhujiceping.com
