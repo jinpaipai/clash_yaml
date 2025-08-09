@@ -1,3 +1,5 @@
+#epic80端口
+DOMAIN,cloudflare.epicgamescdn.com
 #国家诈骗中心
 DOMAIN-SUFFIX,gjfzpt.cn
 IP-CIDR,219.143.187.136/32
@@ -33,4 +35,5 @@ IP-CIDR,112.65.200.117/32
 #quic
 AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_domain)))
 AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_ip)))
+
 
