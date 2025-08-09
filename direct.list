@@ -145,3 +145,6 @@ DOMAIN-SUFFIX,avira.com
 
 #博客
 DOMAIN,www.zhujiceping.com
+
+#mai.ru
+DOMAIN-SUFFIX,mail.ru
