@@ -2,6 +2,7 @@
 DOMAIN,cloudflare.epicgamescdn.com
 DOMAIN,egdownload.fastly-edge.com
 DOMAIN,epicgames-download1.akamaized.net
+DOMAIN,download.epicgames.com
 
 #国家诈骗中心
 DOMAIN-SUFFIX,gjfzpt.cn
@@ -43,4 +44,5 @@ IP-CIDR,112.65.200.117/32
 #quic
 AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_domain)))
 AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_ip)))
+
 
