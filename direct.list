@@ -3,7 +3,6 @@ DOMAIN,vip.wwgz.cn
 DOMAIN-SUFFIX,bytepluscdn.com
 DOMAIN-SUFFIX,byteicdn.com
 DOMAIN-SUFFIX,hypstarcdn.com
-DOMAIN-SUFFIX,lzcdn25.com
 DOMAIN-SUFFIX,xlzyd.com
 DOMAIN-SUFFIX,tlkqc.com
 DOMAIN-SUFFIX,ftn.qq.com
@@ -13,9 +12,11 @@ DOMAIN-SUFFIX,gggread.com
 DOMAIN-SUFFIX,vxy0112.xyz
 DOMAIN-SUFFIX,lz-cdn14.com
 DOMAIN-SUFFIX,cdnlz14.com
-DOMAIN-SUFFIX,cdnlz9.com
+DOMAIN-SUFFIX,lzcdn25.com
 DOMAIN-SUFFIX,lzcdn27.com
+DOMAIN-SUFFIX,cdnlz9.com
 DOMAIN-KEYWORD,lzcdn
+DOMAIN-KEYWORD,cdnlz
 
 #pikpak
 DOMAIN-SUFFIX,mypikpak.com
@@ -151,6 +152,7 @@ DOMAIN,www.zhujiceping.com
 
 #mai.ru
 DOMAIN-SUFFIX,mail.ru
+
 
 
 
