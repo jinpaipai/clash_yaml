@@ -1,5 +1,6 @@
 #电视资源
 DOMAIN,vip.wwgz.cn
+DOMAIN,img.ffzy888.com
 DOMAIN-SUFFIX,bytepluscdn.com
 DOMAIN-SUFFIX,byteicdn.com
 DOMAIN-SUFFIX,hypstarcdn.com
@@ -144,6 +145,7 @@ DOMAIN,www.zhujiceping.com
 
 #mai.ru
 DOMAIN-SUFFIX,mail.ru
+
 
 
 
