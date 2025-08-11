@@ -36,10 +36,6 @@ DOMAIN-SUFFIX,sssyun.xyz
 DOMAIN,login.microsoftonline.com
 DOMAIN,graph.microsoft.com
 
-#伪装网站
-DOMAIN-SUFFIX,jinsu-tech.com
-DOMAIN-SUFFIX,ada-quest.com
-
 #Nvidia驱动
 DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-SUFFIX,images.nvidia.com
@@ -148,6 +144,7 @@ DOMAIN,www.zhujiceping.com
 
 #mai.ru
 DOMAIN-SUFFIX,mail.ru
+
 
 
 
