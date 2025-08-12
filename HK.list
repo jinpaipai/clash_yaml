@@ -18,3 +18,9 @@ DOMAIN,substraker.paipaijin.dpdns.org
 
 #七尺宇博客
 DOMAIN-SUFFIX,qichiyu.com
+
+# minecraft android
+- PROCESS-NAME,com.mojang.minecfrftpe,HK
+
+#花园战争
+- PROCESS-NAME,PVZBattleforNeighborville.exe,HK
