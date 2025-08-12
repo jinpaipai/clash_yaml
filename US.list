@@ -4,18 +4,18 @@ DOMAIN-SUFFIX,digitalplat.org
 #请愿书
 DOMAIN-SUFFIX,change.org
 
-#github下载
-DOMAIN-SUFFIX,objects.githubusercontent.com
-
-#泥视频
-DOMAIN-SUFFIX,biggggg.com
-DOMAIN-SUFFIX,newpppp.com
-
 #蓝叠
 DOMAIN-SUFFIX,bluestacks.com
 
 #WPS国际
 DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,wpscdn.com
+DOMAIN-SUFFIX,kscord.com
+DOMAIN-SUFFIX,51dzt.com
+DOMAIN-SUFFIX,iciba.com
+DOMAIN-SUFFIX,docer.com
+DOMAIN-SUFFIX,wpsmail.net
+DOMAIN-SUFFIX,papocket.com
 
 #教育邮箱
 DOMAIN-SUFFIX,californiacolleges.edu
@@ -49,23 +49,26 @@ DOMAIN-SUFFIX,vps.hosting
 DOMAIN-SUFFIX,theync.com
 
 #firefox
+DOMAIN,mdn.mozillademos.org
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,mozilla.community
+DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN-SUFFIX,mdn.dev
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,extensionworkshop.com
 DOMAIN-SUFFIX,bugzilla.org
+DOMAIN-SUFFIX,getpocket.com
+DOMAIN-SUFFIX,seamonkey-project.org
+DOMAIN-SUFFIX,thunderbird.net
+DOMAIN-SUFFIX,mozgcp.net
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,docs.rs
-DOMAIN-SUFFIX,extensionworkshop.com
-DOMAIN-SUFFIX,firefox.com
-DOMAIN-SUFFIX,firefoxusercontent.com
-DOMAIN-SUFFIX,getpocket.com
-DOMAIN-SUFFIX,mdn.mozillademos.org
-DOMAIN-SUFFIX,media.prod.mdn.mozit.cloud
-DOMAIN-SUFFIX,mofoprod.net
 DOMAIN-SUFFIX,mozilla.com
-DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
-DOMAIN-SUFFIX,mozilla.org
-DOMAIN-SUFFIX,pocket-image-cache.com
-DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,mdnplay.dev
+DOMAIN-SUFFIX,mdnyalp.dev
 DOMAIN-SUFFIX,rustup.rs
-DOMAIN-SUFFIX,seamonkey-project.org
-DOMAIN-SUFFIX,sentry.prod.mozaws.net
-
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,mdn.allizom.net
+DOMAIN-SUFFIX,mdn.mozit.cloud
+DOMAIN-SUFFIX,developer.allizom.org
