@@ -13,16 +13,12 @@ DOMAIN,vip.wwgz.cn
 DOMAIN,ppvod01.blbtgg.com
 DOMAIN,hnts.ymuuy.com
 DOMAIN,v5.effgijj.top
-DOMAIN-KEYWORD,lzcdn
-DOMAIN-KEYWORD,cdnlz
-DOMAIN-KEYWORD,lz-cdn
+DOMAIN-KEYWORD,v.lzcdn
+DOMAIN-KEYWORD,v.cdnlz
+DOMAIN-KEYWORD,vip.lz-cdn
 DOMAIN-KEYWORD,ffzy
 DOMAIN-KEYWORD,wlcdn
-DOMAIN,v.cdnlz9.com
-DOMAIN,vip.lz-cdn9.com
-DOMAIN,vip.lz-cdn14.com
 DOMAIN,v.lz15uu.com
-DOMAIN,v.lzcdn25.com
 
 #pikpak
 DOMAIN-SUFFIX,mypikpak.com
@@ -154,6 +150,7 @@ DOMAIN,www.zhujiceping.com
 
 #mai.ru
 DOMAIN-SUFFIX,mail.ru
+
 
 
 
