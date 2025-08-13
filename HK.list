@@ -19,9 +19,4 @@ DOMAIN,substraker.paipaijin.dpdns.org
 #博客
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,v2rayssr.com
-
-#minecraft android
-#PROCESS-NAME,com.mojang.minecfrftpe,HK
-
-#花园战争
-#PROCESS-NAME,PVZBattleforNeighborville.exe,HK
+DOMAIN-SUFFIX,vpsxb.net
