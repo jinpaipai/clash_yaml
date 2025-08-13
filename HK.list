@@ -16,12 +16,12 @@ DOMAIN-SUFFIX,deepseek.com
 $substracker
 DOMAIN,substraker.paipaijin.dpdns.org
 
-#七尺宇博客
+#博客
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,v2rayssr.com
 
 #minecraft android
 #PROCESS-NAME,com.mojang.minecfrftpe,HK
 
 #花园战争
 #PROCESS-NAME,PVZBattleforNeighborville.exe,HK
-
