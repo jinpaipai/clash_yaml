@@ -1,30 +1,3 @@
-#电视资源
-DOMAIN-SUFFIX,bytepluscdn.com
-DOMAIN-SUFFIX,byteicdn.com
-DOMAIN-SUFFIX,hypstarcdn.com
-DOMAIN-SUFFIX,xlzyd.com
-DOMAIN-SUFFIX,tlkqc.com
-DOMAIN-SUFFIX,ftn.qq.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,toutiaovod.com
-DOMAIN-SUFFIX,vxy0112.xyz
-DOMAIN-SUFFIX,gggread.com
-DOMAIN,vip.wwgz.cn
-DOMAIN,ppvod01.blbtgg.com
-DOMAIN,hnts.ymuuy.com
-DOMAIN,v5.effgijj.top
-DOMAIN-KEYWORD,v.lzcdn
-DOMAIN-KEYWORD,v.cdnlz
-DOMAIN-KEYWORD,vip.lz-cdn
-DOMAIN-KEYWORD,ffzy
-DOMAIN-KEYWORD,wlcdn
-DOMAIN-KEYWORD,kqgfbs
-DOMAIN-KEYWORD,q19jcg
-DOMAIN-KEYWORD,ppvod
-DOMAIN,v.lz15uu.com
-DOMAIN,ppvod01.kqgfbs.com
-DOMAIN,ppvod02.q19jcg.com
-
 #pikpak
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,pikpak.me
@@ -155,3 +128,4 @@ DOMAIN,www.zhujiceping.com
 
 #mai.ru
 DOMAIN-SUFFIX,mail.ru
+
