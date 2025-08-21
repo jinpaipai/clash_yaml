@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,pikpak.me
 DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN,o4504926511693824.ingest.sentry.io
 
+#CFN
+DOMAIN-SUFFIX,cnfaster.com
+
 #dns
 IP-CIDR6,2620:74:1c::2:2/128
 IP-CIDR6,2606:4700:4700::1001/128
@@ -128,4 +131,5 @@ DOMAIN,www.zhujiceping.com
 
 #mai.ru
 DOMAIN-SUFFIX,mail.ru
+
 
