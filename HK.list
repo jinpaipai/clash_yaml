@@ -25,5 +25,6 @@ DOMAIN-SUFFIX,liqiye.com
 DOMAIN-SUFFIX,playlab.eu.org
 DOMAIN-SUFFIX,webshare.io
 
-DOMAIN,us.paipaijin.dpdns.org
-DOMAIN,xui_us.paipaijin.dpdns.org
+#阻断域名
+DOMAIN-SUFFIX,paipaijin.dpdns.org
+
