@@ -41,8 +41,3 @@ IP-CIDR,112.65.200.117/32
 #quic
 AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_domain)))
 AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_ip)))
-
-
-
-
-
