@@ -1,6 +1,7 @@
 #epic
 fastly-download.epicgames.com
 +.epicgamesdownload11251447533.file.myqcloud.com
+egdownload.fastly-edge.com
 
 #ubisoft
 ubisoftconnect.cdn.ubi.com
@@ -80,5 +81,6 @@ download.dgameglobal.com
 #gal
 +.galgame.ing
 +.download.sgameglobal.com
+
 
 
