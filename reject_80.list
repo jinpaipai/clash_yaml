@@ -1,0 +1,4 @@
+AND,(RULE-SET,gamedownload_domain),(DST-PORT,80)
+AND,(RULE-SET,gamedownload_list),(DST-PORT,80)
+AND,(RULE-SET,gamedeck_domain),(DST-PORT,80)
+AND,(RULE-SET,gamedeck_list),(DST-PORT,80)
