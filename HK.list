@@ -1,3 +1,6 @@
+AND,(DST-PORT,52478),(DOMAIN,www.jinpaipai.qzz.io)
+AND,(DST-PORT,443),(DOMAIN,xui.jinpaipai.qzz.io)
+
 #steamdb
 DOMAIN-SUFFIX,steamdb.info
 
@@ -24,5 +27,6 @@ DOMAIN-SUFFIX,aloxaf.com
 DOMAIN-SUFFIX,liqiye.com
 DOMAIN-SUFFIX,playlab.eu.org
 DOMAIN-SUFFIX,webshare.io
+
 
 
