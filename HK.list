@@ -13,6 +13,8 @@ AND,(DST-PORT,48712),(DOMAIN,rtmp.jinpaipai.top)
 AND,(DST-PORT,7000),(DOMAIN,frp.jinpaipai.top)
 #MC
 AND,(DST-PORT,52781),(DOMAIN,minecraft.jinpaipai.top)
+#SSH
+AND,(DST-PORT,57892),(DOMAIN,ssh.jinpaipai.top)
 
 #steamdb
 DOMAIN-SUFFIX,steamdb.info
@@ -40,6 +42,7 @@ DOMAIN-SUFFIX,aloxaf.com
 DOMAIN-SUFFIX,liqiye.com
 DOMAIN-SUFFIX,playlab.eu.org
 DOMAIN-SUFFIX,webshare.io
+
 
 
 
