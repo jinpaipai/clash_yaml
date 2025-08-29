@@ -5,6 +5,8 @@
 #AND,(DST-PORT,443),(DOMAIN,xui.jinpaipai.qzz.io)
 #ssh
 #AND,(DST-PORT,21321),(DOMAIN,www.jinpaipai.qzz.io)
+#Clash
+#AND,(DST-PORT,36574),(DOMAIN,mihomo.jinpaipai.top)
 
 #steamdb
 DOMAIN-SUFFIX,steamdb.info
@@ -32,6 +34,7 @@ DOMAIN-SUFFIX,aloxaf.com
 DOMAIN-SUFFIX,liqiye.com
 DOMAIN-SUFFIX,playlab.eu.org
 DOMAIN-SUFFIX,webshare.io
+
 
 
 
