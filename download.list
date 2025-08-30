@@ -39,7 +39,7 @@ saimei.ftp.acc.umu.se
 
 #Fydeos系统
 *.fydeos.com
-*.fydeos.io
+download.fydeos.io
 
 #openwrt定制固件下载
 *.dl.openwrt.ai
@@ -47,3 +47,4 @@ saimei.ftp.acc.umu.se
 #线刷包下载
 
 *.aliyuncs.com
+
