@@ -1,5 +1,6 @@
 #游戏80端口
 cloudflare.epicgamescdn.com
+egdownload.fastly-edge.com
 
 #pikpak
 *.mypikpak.com
@@ -50,5 +51,6 @@ download.fydeos.io
 #线刷包下载
 
 *.aliyuncs.com
+
 
 
