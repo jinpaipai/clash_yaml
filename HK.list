@@ -11,6 +11,7 @@ AND,(DST-PORT,36574),(DOMAIN,mihomo.jinpaipai.top)
 AND,(DST-PORT,48712),(DOMAIN,rtmp.jinpaipai.top)
 #frp
 AND,(DST-PORT,7000),(DOMAIN,frp.jinpaipai.top)
+AND,(DST-PORT,443),(DOMAIN,frp.jinpaipai.top)
 #MC
 AND,(DST-PORT,52781),(DOMAIN,minecraft.jinpaipai.top)
 #SSH
@@ -42,6 +43,7 @@ DOMAIN-SUFFIX,aloxaf.com
 DOMAIN-SUFFIX,liqiye.com
 DOMAIN-SUFFIX,playlab.eu.org
 DOMAIN-SUFFIX,webshare.io
+
 
 
 
