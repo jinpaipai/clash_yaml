@@ -20,7 +20,7 @@ drivers.amd.com
 *.software.download.prss.microsoft.com
 
 #Debian
-*.saimei.ftp.acc.umu.se
+saimei.ftp.acc.umu.se
 
 #罗技更新
 *.updates.ghub.logitechg.com
@@ -45,4 +45,5 @@ drivers.amd.com
 *.dl.openwrt.ai
 
 #线刷包下载
+
 *.aliyuncs.com
