@@ -1,6 +1,8 @@
 #CFN
 DOMAIN-SUFFIX,cnfaster.com
 
+#CF穿透
+DOMAIN-SUFFIX,v2.argotunnel.com
 #dns
 IP-CIDR6,2620:74:1c::2:2/128
 IP-CIDR6,2606:4700:4700::1001/128
@@ -76,4 +78,5 @@ DOMAIN-SUFFIX,avira.com
 
 #博客
 DOMAIN,www.zhujiceping.com
+
 
