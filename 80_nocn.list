@@ -1,1 +1,1 @@
-AND,(AND,(AND,(AND,(DST-PORT,80),(NOT,((RULE-SET,cn_domain)))),(NOT,((RULE-SET,cn_ip)))),(NOT,((DOMAIN-SUFFIX,cn)))),(NOT,((DOMAIN-KEYWORD,-cn)))
+AND,(AND,(AND,(AND,(AND,(DST-PORT,80),(NOT,((RULE-SET,cn_domain)))),(NOT,((RULE-SET,cn_ip)))),(NOT,((DOMAIN-SUFFIX,cn)))),(NOT,((DOMAIN-KEYWORD,-cn)))),(NOT,((RULE-SET,tvbox_list)))
