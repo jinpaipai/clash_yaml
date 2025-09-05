@@ -1,10 +1,4 @@
 #HK2
-#1panel
-#AND,(DST-PORT,52478),(DOMAIN,www.jinpaipai.qzz.io)
-#xui
-#AND,(DST-PORT,443),(DOMAIN,xui.jinpaipai.qzz.io)
-#ssh
-#AND,(DST-PORT,21321),(DOMAIN,www.jinpaipai.qzz.io)
 #Clash
 AND,(DST-PORT,36574),(DOMAIN,mihomo.jinpaipai.top)
 #RTMP
@@ -12,10 +6,6 @@ AND,(DST-PORT,48712),(DOMAIN,rtmp.jinpaipai.top)
 #frp
 AND,(DST-PORT,7000),(DOMAIN,frp.jinpaipai.top)
 AND,(DST-PORT,443),(DOMAIN,frp.jinpaipai.top)
-#MC
-AND,(DST-PORT,52781),(DOMAIN,minecraft.jinpaipai.top)
-#SSH
-AND,(DST-PORT,57892),(DOMAIN,ssh.jinpaipai.top)
 
 #steamdb
 DOMAIN-SUFFIX,steamdb.info
