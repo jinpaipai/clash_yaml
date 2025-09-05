@@ -45,4 +45,4 @@ DOMAIN-SUFFIX,playlab.eu.org
 DOMAIN-SUFFIX,webshare.io
 
 #R星服务器
-DOMAIN,prod-core.ros.rockstargames.com
+DOMAIN-SUFFIX,ros.rockstargames.com
