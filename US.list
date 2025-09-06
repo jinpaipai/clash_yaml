@@ -1,5 +1,5 @@
 #SSH
-AND,(us.paipaijin.dpdns.org),(DST-PORT,23478)
+AND,(DOMAIN,us.paipaijin.dpdns.org),(DST-PORT,23478)
 
 #域名
 DOMAIN-SUFFIX,digitalplat.org
@@ -75,6 +75,7 @@ DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,mdn.allizom.net
 DOMAIN-SUFFIX,mdn.mozit.cloud
 DOMAIN-SUFFIX,developer.allizom.org
+
 
 
 
