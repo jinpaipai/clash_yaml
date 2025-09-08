@@ -49,8 +49,9 @@ download.fydeos.io
 *.dl.openwrt.ai
 
 #线刷包下载
-
 *.aliyuncs.com
 
+#微软更新
++.ts.cdn.office.net
 
 
