@@ -1,3 +1,7 @@
+#rustdesk
+AND,(DST-PORT,21116),(DOMAIN,rustdesk.jinpaipai.top)
+AND,(DST-PORT,21117),(DOMAIN,rustdesk.jinpaipai.top)
+
 #HK2
 #Clash
 AND,(DST-PORT,36574),(DOMAIN,mihomo.jinpaipai.top)
@@ -36,3 +40,4 @@ DOMAIN-SUFFIX,webshare.io
 
 #R星服务器
 DOMAIN-SUFFIX,ros.rockstargames.com
+
