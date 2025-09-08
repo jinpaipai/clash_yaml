@@ -1,57 +1,56 @@
 #游戏80端口
-cloudflare.epicgamescdn.com
-egdownload.fastly-edge.com
+DOMAIN,cloudflare.epicgamescdn.com
+DOMAIN,egdownload.fastly-edge.com
 
 #pikpak
-*.mypikpak.com
-*.pikpak.me
-*.pikpakdrive.com
-o4504926511693824.ingest.sentry.io
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,pikpakdrive.com
+DOMAIN,o4504926511693824.ingest.sentry.io
 
 #Nvidia驱动
-*.download.nvidia.com
-*.images.nvidia.com
-*.international-gfe.download.nvidia.com
+DOMAIN-SUFFIX,download.nvidia.com
+DOMAIN-SUFFIX,images.nvidia.com
+DOMAIN-SUFFIX,international-gfe.download.nvidia.com
 
 #AMD驱动
-drivers.amd.com
+DOMAIN,drivers.amd.com
 
 #微软
-*.f.c2r.ts.cdn.office.net
-*.msedge.sf.dl.delivery.mp.microsoft.com
-*.download.visualstudio.microsoft.com
-*.tlu.dl.delivery.mp.microsoft.com
-*.software.download.prss.microsoft.com
+DOMAIN-SUFFIX,f.c2r.ts.cdn.office.net
+DOMAIN-SUFFIX,msedge.sf.dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,download.visualstudio.microsoft.com
+DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,software.download.prss.microsoft.com
 
 #Debian
-saimei.ftp.acc.umu.se
+DOMAIN,saimei.ftp.acc.umu.se
 
 #罗技更新
-*.updates.ghub.logitechg.com
+DOMAIN-SUFFIX,updates.ghub.logitechg.com
+AND,(DOMAIN-KEYWORD,download),(DOMAIN-SUFFIX,logi.com)
 
 #微星
-*.download.msi.com
+DOMAIN-SUFFIX,download.msi.com
 
 #intel
-*.downloadmirror.intel.com
+DOMAIN-SUFFIX,downloadmirror.intel.com
 
 #apkpure
-*.winudf.com
+DOMAIN-SUFFIX,winudf.com
 
 #迅雷下载
-*.wap.sandai.net
+DOMAIN-SUFFIX,wap.sandai.net
 
 #Fydeos系统
-*.fydeos.com
-download.fydeos.io
+DOMAIN-SUFFIX,fydeos.com
+DOMAIN,download.fydeos.io
 
 #openwrt定制固件下载
-*.dl.openwrt.ai
+DOMAIN-SUFFIX,dl.openwrt.ai
 
 #线刷包下载
-*.aliyuncs.com
+DOMAIN-SUFFIX,aliyuncs.com
 
 #微软更新
-+.ts.cdn.office.net
-
-
+DOMAIN-SUFFIX,ts.cdn.office.net
