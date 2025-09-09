@@ -1,6 +1,6 @@
 #Bilibili
 DOMAIN-SUFFIX,biliapi.net
-IP-CIDR,203.107.1.0/24 
+IP-CIDR,203.107.1.0/24,no-resolve
 DOMAIN,api.bilibili.tv 
 DOMAIN-SUFFIX,biliapi.com 
 #贴吧
@@ -30,4 +30,5 @@ DOMAIN-SUFFIX,douyu.com
 DOMAIN,zhihu-web-analytics.zhihu.com
 DOMAIN,www.zhihu.com
 DOMAIN,api.zhihu.com 
+
 DOMAIN-SUFFIX,zhihu.com
