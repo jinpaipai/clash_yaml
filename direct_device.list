@@ -1,0 +1,2 @@
+AND,(SRC-IP-CIDR,192.168.31.0/24),(NOT,((RULE-SET,neiwang_list)))
+AND,(SRC-IP-CIDR,fd00:6868:6868::/64),(NOT,((RULE-SET,neiwang_list)))
