@@ -75,3 +75,6 @@ DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,mdn.allizom.net
 DOMAIN-SUFFIX,mdn.mozit.cloud
 DOMAIN-SUFFIX,developer.allizom.org
+
+#暗网
+DOMAIN-SUFFIX,onion
