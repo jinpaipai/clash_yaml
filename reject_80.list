@@ -1,3 +1,1 @@
-AND,(DOMAIN,tgscp.mainconn.gamesafe.qq.com),(DST-PORT,80)
-AND,(DOMAIN,ied-tqos-tgp.qq.com),(DST-PORT,80)
-AND,(DOMAIN,ocsp2.globalsign.com),(DST-PORT,80)
+
