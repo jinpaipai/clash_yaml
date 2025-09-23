@@ -41,3 +41,5 @@ DOMAIN-SUFFIX,webshare.io
 #R星服务器
 DOMAIN-SUFFIX,ros.rockstargames.com
 
+#王者荣耀国际服
+DOMAIN-SUFFIX,ssl.msdk.qq.com
