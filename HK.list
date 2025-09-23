@@ -42,4 +42,5 @@ DOMAIN-SUFFIX,webshare.io
 DOMAIN-SUFFIX,ros.rockstargames.com
 
 #王者荣耀国际服
-DOMAIN-SUFFIX,ssl.msdk.qq.com
+DOMAIN,ssl.msdk.qq.com
+DOMAIN,dlied5.qq.com
