@@ -1,3 +1,6 @@
+#sci
+DOMAIN-SUFFIX,clarivate.com
+
 #CFN
 DOMAIN-SUFFIX,cnfaster.com
 
@@ -79,6 +82,7 @@ DOMAIN-SUFFIX,avira.com
 
 #博客
 DOMAIN,www.zhujiceping.com
+
 
 
 
