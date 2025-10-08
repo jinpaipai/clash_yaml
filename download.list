@@ -1,3 +1,6 @@
+#AI模型
+DOMAIN-SUFFIX,r2.cloudflarestorage.com
+
 #游戏80端口
 DOMAIN,cloudflare.epicgamescdn.com
 DOMAIN,egdownload.fastly-edge.com
@@ -54,4 +57,5 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #微软更新
 DOMAIN-SUFFIX,ts.cdn.office.net
+
 
