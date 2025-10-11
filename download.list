@@ -1,3 +1,6 @@
+#Github下载
+DOMAIN,release-assets.githubusercontent.com
+
 #AI模型
 DOMAIN-SUFFIX,r2.cloudflarestorage.com
 
@@ -57,5 +60,6 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #微软更新
 DOMAIN-SUFFIX,ts.cdn.office.net
+
 
 
