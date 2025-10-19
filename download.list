@@ -23,11 +23,11 @@ DOMAIN-SUFFIX,international-gfe.download.nvidia.com
 DOMAIN,drivers.amd.com
 
 #微软
-DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,msedge.sf.dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
-DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,software.download.prss.microsoft.com
+DOMAIN-SUFFIX,ts.cdn.office.net
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
 
 #Debian
 DOMAIN,saimei.ftp.acc.umu.se
@@ -58,9 +58,6 @@ DOMAIN-SUFFIX,dl.openwrt.ai
 #线刷包下载
 DOMAIN-SUFFIX,aliyuncs.com
 
-#微软更新
-DOMAIN-SUFFIX,ts.cdn.office.net
-DOMAIN,tlu.dl.delivery.mp.microsoft.com
 
 
 
