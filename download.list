@@ -60,6 +60,8 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #微软更新
 DOMAIN-SUFFIX,ts.cdn.office.net
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
+
 
 
 
