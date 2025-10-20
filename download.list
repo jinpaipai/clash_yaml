@@ -58,6 +58,8 @@ DOMAIN-SUFFIX,dl.openwrt.ai
 #线刷包下载
 DOMAIN-SUFFIX,aliyuncs.com
 
+#Python
+DOMAIN,files.pythonhosted.org
 
 
 
