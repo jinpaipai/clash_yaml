@@ -1,3 +1,6 @@
+#syncthing官方服务器
+DOMAIN,stun.voipstunt.com
+
 #Github下载
 DOMAIN,release-assets.githubusercontent.com
 
@@ -60,6 +63,7 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #Python
 DOMAIN,files.pythonhosted.org
+
 
 
 
