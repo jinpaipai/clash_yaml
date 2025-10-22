@@ -29,7 +29,6 @@ DOMAIN,drivers.amd.com
 #微软
 DOMAIN-SUFFIX,msedge.sf.dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
-DOMAIN-SUFFIX,software.download.prss.microsoft.com
 DOMAIN-SUFFIX,ts.cdn.office.net
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
 
@@ -64,6 +63,7 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #Python
 DOMAIN,files.pythonhosted.org
+
 
 
 
