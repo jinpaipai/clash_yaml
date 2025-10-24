@@ -2,6 +2,9 @@
 DOMAIN,stun.voipstunt.com
 DOMAIN-SUFFIX,syncthing.net
 
+#Pycharm
+DOMAIN,download-cdn.jetbrains.com
+
 #Github下载
 DOMAIN,release-assets.githubusercontent.com
 
@@ -63,6 +66,7 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #Python
 DOMAIN,files.pythonhosted.org
+
 
 
 
