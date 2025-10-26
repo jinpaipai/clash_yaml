@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,syncthing.net
 
 #R星下载
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN,cdn.battleye.com
 
 #Pycharm
 DOMAIN,download-cdn.jetbrains.com
@@ -70,6 +71,7 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #Python
 DOMAIN,files.pythonhosted.org
+
 
 
 
