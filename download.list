@@ -2,6 +2,9 @@
 DOMAIN,stun.voipstunt.com
 DOMAIN-SUFFIX,syncthing.net
 
+#R星下载
+DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+
 #Pycharm
 DOMAIN,download-cdn.jetbrains.com
 DOMAIN,downloads.marketplace.jetbrains.com
@@ -67,6 +70,7 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #Python
 DOMAIN,files.pythonhosted.org
+
 
 
 
