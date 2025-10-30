@@ -2,6 +2,9 @@
 DOMAIN,stun.voipstunt.com
 DOMAIN-SUFFIX,syncthing.net
 
+#AVG
+DOMAIN,honzik.avcdn.net
+
 #R星下载
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,cdn.battleye.com
@@ -71,6 +74,7 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #Python
 DOMAIN,files.pythonhosted.org
+
 
 
 
