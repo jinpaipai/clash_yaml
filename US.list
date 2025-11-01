@@ -1,5 +1,8 @@
-#mail.ru
-DOMAIN-SUFFIX,mail.ru
+#邮箱
+DOMAIN,smtp.mail.ru
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,outlook.office365.com
+DOMAIN,imap.mail.ru
 
 #SSH
 AND,(DOMAIN,us.paipaijin.dpdns.org),(DST-PORT,23478)
@@ -81,4 +84,5 @@ DOMAIN-SUFFIX,developer.allizom.org
 
 #暗网
 DOMAIN-SUFFIX,onion
+
 
