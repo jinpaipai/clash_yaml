@@ -1,8 +1,15 @@
 #邮箱
-DOMAIN,smtp.mail.ru
-DOMAIN,smtp-mail.outlook.com
+DOMAIN,imap.gmail.com
+DOMAIN,smtp.gmail.com
 DOMAIN,outlook.office365.com
+DOMAIN,smtp.office365.com
+DOMAIN,imap-mail.outlook.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,imap.mail.yahoo.com
+DOMAIN,smtp.mail.yahoo.com
 DOMAIN,imap.mail.ru
+DOMAIN,pop.mail.ru
+DOMAIN,smtp.mail.ru
 
 #SSH
 AND,(DOMAIN,us.paipaijin.dpdns.org),(DST-PORT,23478)
@@ -84,5 +91,6 @@ DOMAIN-SUFFIX,developer.allizom.org
 
 #暗网
 DOMAIN-SUFFIX,onion
+
 
 
