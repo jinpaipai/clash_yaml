@@ -10,6 +10,8 @@ DOMAIN,smtp.mail.yahoo.com
 DOMAIN,imap.mail.ru
 DOMAIN,pop.mail.ru
 DOMAIN,smtp.mail.ru
+DOMAIN,imap.zoho.com
+DOMAIN,smtp.zoho.com
 
 #SSH
 AND,(DOMAIN,us.paipaijin.dpdns.org),(DST-PORT,23478)
@@ -91,6 +93,7 @@ DOMAIN-SUFFIX,developer.allizom.org
 
 #暗网
 DOMAIN-SUFFIX,onion
+
 
 
 
