@@ -1,3 +1,6 @@
+#大模型
+DOMAIN,cas-bridge.xethub.hf.co
+
 #syncthing官方服务器
 DOMAIN,stun.voipstunt.com
 DOMAIN-SUFFIX,syncthing.net
@@ -75,6 +78,7 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #Python
 DOMAIN,files.pythonhosted.org
+
 
 
 
