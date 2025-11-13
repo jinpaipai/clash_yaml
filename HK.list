@@ -1,8 +1,3 @@
-#rustdesk
-AND,(DST-PORT,21116),(DOMAIN,rustdesk.jinpaipai.top)
-AND,(DST-PORT,21117),(DOMAIN,rustdesk.jinpaipai.top)
-AND,(DST-PORT,21114),(DOMAIN,rustdesk.jinpaipai.top)
-
 #VPS
 #Debian-Clash-Frp
 AND,(DST-PORT,36574),(DOMAIN,mihomo.jinpaipai.top)
@@ -63,4 +58,5 @@ DOMAIN,g-client-prod.cloud-control.smoba.qq.com
 DOMAIN-SUFFIX,sgameglobal.com.acc.edgeonedy1.com
 DOMAIN,android.crashsight.wetest.net
 DOMAIN,res.sgameglobal.com
+
 
