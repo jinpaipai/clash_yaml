@@ -1,15 +1,27 @@
 #rustdesk
 AND,(DST-PORT,21116),(DOMAIN,rustdesk.jinpaipai.top)
 AND,(DST-PORT,21117),(DOMAIN,rustdesk.jinpaipai.top)
+AND,(DST-PORT,21114),(DOMAIN,rustdesk.jinpaipai.top)
 
-#HK2
-#Clash
+#VPS
+#Debian-Clash-Frp
 AND,(DST-PORT,36574),(DOMAIN,mihomo.jinpaipai.top)
-#RTMP
+#Debian-RTMP-Frp
 AND,(DST-PORT,48712),(DOMAIN,rtmp.jinpaipai.top)
-#frp
+#Debian-Nezha-Frp
+AND,(DST-PORT,27415),(DOMAIN,nezha.jinpaipai.top)
+#Debian-SSH-Frp
+AND,(DST-PORT,57892),(DOMAIN-SUFFIX,jinpaipai.top)
+#Debian-SRS-Frp
+AND,(DST-PORT,35687),(DOMAIN-SUFFIX,jinpaipai.top)
+#Frp
 AND,(DST-PORT,7000),(DOMAIN,frp.jinpaipai.top)
-AND,(DST-PORT,443),(DOMAIN,frp.jinpaipai.top)
+#Https
+AND,(DST-PORT,1443),(RULE-SET,vps_list)
+#Frp-Https
+AND,(DST-PORT,5001),(RULE-SET,vps_list)
+#Frp-Http
+AND,(DST-PORT,5000),(RULE-SET,vps_list)
 
 #steamdb
 DOMAIN-SUFFIX,steamdb.info
@@ -51,3 +63,4 @@ DOMAIN,g-client-prod.cloud-control.smoba.qq.com
 DOMAIN-SUFFIX,sgameglobal.com.acc.edgeonedy1.com
 DOMAIN,android.crashsight.wetest.net
 DOMAIN,res.sgameglobal.com
+
