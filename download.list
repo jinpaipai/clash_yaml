@@ -1,3 +1,6 @@
+#自建sync
+AND,(DOMAIN,us.paipaijin.dpdns.org),(22067)
+
 #大模型
 DOMAIN,cas-bridge.xethub.hf.co
 
@@ -78,3 +81,4 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #Python
 DOMAIN,files.pythonhosted.org
+
