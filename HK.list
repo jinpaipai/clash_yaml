@@ -10,6 +10,7 @@ AND,(DST-PORT,57892),(DOMAIN-SUFFIX,jinpaipai.top)
 #Debian-SRS-Frp
 AND,(DST-PORT,35687),(DOMAIN-SUFFIX,jinpaipai.top)
 #Frp
+AND,(DST-PORT,7500),(DOMAIN,frp.jinpaipai.top)
 AND,(DST-PORT,7000),(DOMAIN,frp.jinpaipai.top)
 #Https
 AND,(DST-PORT,1443),(RULE-SET,vps_list)
@@ -58,5 +59,6 @@ DOMAIN,g-client-prod.cloud-control.smoba.qq.com
 DOMAIN-SUFFIX,sgameglobal.com.acc.edgeonedy1.com
 DOMAIN,android.crashsight.wetest.net
 DOMAIN,res.sgameglobal.com
+
 
 
