@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,ts.cdn.office.net
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN,officecdn.microsoft.com
+DOMAIN,1d.tlu.dl.delivery.mp.microsoft.com
 
 #Debian
 DOMAIN,saimei.ftp.acc.umu.se
@@ -82,5 +83,6 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 #Python
 DOMAIN,files.pythonhosted.org
+
 
 
