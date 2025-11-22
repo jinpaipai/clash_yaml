@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,immersivetranslate.com
 #microsoft
 DOMAIN-SUFFIX,software.download.prss.microsoft.com
 
+#EA更新
+DOMAIN,cdn.eaanticheat.ac.ea.com
+
 #sci
 DOMAIN-SUFFIX,clarivate.com
 
@@ -88,6 +91,7 @@ DOMAIN-SUFFIX,avira.com
 
 #博客
 DOMAIN,www.zhujiceping.com
+
 
 
 
