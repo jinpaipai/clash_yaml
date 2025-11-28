@@ -27,6 +27,11 @@ IP-CIDR6,2001:4860:4860::8888/128,no-resolve
 DOMAIN-SUFFIX,jueduibupao.top
 DOMAIN-SUFFIX,6bnw.top
 DOMAIN-SUFFIX,sssyun.xyz
+DOMAIN-SUFFIX,best.cdn.sqeven.cn
+DOMAIN-SUFFIX,bestcf.top
+DOMAIN-SUFFIX,6bnw.top
+DOMAIN-SUFFIX,idsduf.com
+DOMAIN-SUFFIX,whtjdasha.com
 
 #e5脚本
 DOMAIN,login.microsoftonline.com
@@ -91,6 +96,7 @@ DOMAIN-SUFFIX,avira.com
 
 #博客
 DOMAIN,www.zhujiceping.com
+
 
 
 
