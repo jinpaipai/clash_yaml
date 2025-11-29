@@ -39,6 +39,7 @@ IP-CIDR,112.64.218.119/32,no-resolve
 IP-CIDR,112.65.200.117/32,no-resolve
 
 #quic
-AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_domain)))
-AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_ip,no-resolve)))
+AND,(AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_domain)))),(NOT,((DOMAIN,onedrive.live.com)))
+AND,(AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_ip,no-resolve)))),(NOT,((DOMAIN,onedrive.live.com)))
+
 
