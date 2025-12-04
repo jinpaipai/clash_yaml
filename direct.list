@@ -1,6 +1,3 @@
-#TapTap
-PROCESS-NAME,com.taptap
-
 #沉浸式翻译
 DOMAIN-SUFFIX,immersivetranslate.com
 
@@ -95,6 +92,7 @@ DOMAIN-SUFFIX,avira.com
 
 #博客
 DOMAIN,www.zhujiceping.com
+
 
 
 
