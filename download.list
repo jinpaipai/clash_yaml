@@ -83,8 +83,12 @@ DOMAIN-SUFFIX,aliyuncs.com
 #Python
 DOMAIN,files.pythonhosted.org
 
+#EA更新
+DOMAIN,cdn.eaanticheat.ac.ea.com
+
 #Battlfied6
 DOMAIN,rls.tapurl.com
+
 
 
 
