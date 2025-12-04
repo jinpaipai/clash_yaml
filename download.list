@@ -52,7 +52,7 @@ DOMAIN,officecdn.microsoft.com
 DOMAIN,1d.tlu.dl.delivery.mp.microsoft.com
 
 #Debian
-DOMAIN,saimei.ftp.acc.umu.se
+DOMAIN-SUFFIX,ftp.acc.umu.se
 
 #罗技更新
 DOMAIN-SUFFIX,updates.ghub.logitechg.com
@@ -88,6 +88,7 @@ DOMAIN,cdn.eaanticheat.ac.ea.com
 
 #Battlfied6
 DOMAIN,rls.tapurl.com
+
 
 
 
