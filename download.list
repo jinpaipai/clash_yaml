@@ -1,6 +1,9 @@
 #卡巴斯基
 DOMAIN,tfu.s.kaspersky-labs.com
 
+#Docker下载
+DOMAIN,production.cloudflare.docker.com
+
 #大模型
 DOMAIN,cas-bridge.xethub.hf.co
 
@@ -88,6 +91,7 @@ DOMAIN,cdn.eaanticheat.ac.ea.com
 
 #Battlfied6
 DOMAIN,rls.tapurl.com
+
 
 
 
