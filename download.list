@@ -1,5 +1,6 @@
 #卡巴斯基
 DOMAIN,tfu.s.kaspersky-labs.com
+DOMAIN-SUFFIX,upd.kaspersky.com
 
 #Docker下载
 DOMAIN,production.cloudflare.docker.com
@@ -91,6 +92,7 @@ DOMAIN,cdn.eaanticheat.ac.ea.com
 
 #Battlfied6
 DOMAIN,rls.tapurl.com
+
 
 
 
