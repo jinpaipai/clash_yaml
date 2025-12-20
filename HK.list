@@ -19,9 +19,6 @@ AND,(DST-PORT,5001),(RULE-SET,vps_list)
 #Frp-Http
 AND,(DST-PORT,5000),(RULE-SET,vps_list)
 
-#kaspersky_domain
-RULE-SET,kaspersky_domain
-
 #steamdb
 DOMAIN-SUFFIX,steamdb.info
 
@@ -62,6 +59,7 @@ DOMAIN,g-client-prod.cloud-control.smoba.qq.com
 DOMAIN-SUFFIX,sgameglobal.com.acc.edgeonedy1.com
 DOMAIN,android.crashsight.wetest.net
 DOMAIN,res.sgameglobal.com
+
 
 
 
