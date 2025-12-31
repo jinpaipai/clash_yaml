@@ -1,43 +1,43 @@
-#VPS
-#Debian-Clash-Frp
+# VPS
+# Debian-Clash-Frp
 AND,(DST-PORT,36574),(DOMAIN,mihomo.jinpaipai.top)
-#Debian-RTMP-Frp
+# Debian-RTMP-Frp
 AND,(DST-PORT,48712),(DOMAIN,rtmp.jinpaipai.top)
-#Debian-Nezha-Frp
+# Debian-Nezha-Frp
 AND,(DST-PORT,27415),(DOMAIN,nezha.jinpaipai.top)
-#Debian-SSH-Frp
+# Debian-SSH-Frp
 AND,(DST-PORT,57892),(DOMAIN,ssh.jinpaipai.top)
-#Debian-SRS-Frp
+# Debian-SRS-Frp
 AND,(DST-PORT,35687),(DOMAIN-SUFFIX,jinpaipai.top)
-#Frp
+# Frp
 AND,(DST-PORT,7500),(DOMAIN,frp.jinpaipai.top)
 AND,(DST-PORT,7000),(DOMAIN,frp.jinpaipai.top)
-#Https
+# Https
 AND,(DST-PORT,1443),(RULE-SET,vps_list)
-#Frp-Https
+# Frp-Https
 AND,(DST-PORT,5001),(RULE-SET,vps_list)
-#Frp-Http
+# Frp-Http
 AND,(DST-PORT,5000),(RULE-SET,vps_list)
 
-#steamdb
+# Steamdb
 DOMAIN-SUFFIX,steamdb.info
 
-#canva
+# Canva
 DOMAIN-SUFFIX,canva.com
 
-#verycapure api
+# Verycapure api
 DOMAIN,api.verycapture.com
 
-#饭太硬导航
+# 饭太硬导航
 DOMAIN,www.xn--sss604efuw.com
 
-#deepseek
+# DeepSeek
 DOMAIN-SUFFIX,deepseek.com
 
-$substracker
+$ SubStracker
 DOMAIN,substraker.paipaijin.dpdns.org
 
-#博客
+# 博客
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,vpsxb.net
@@ -46,10 +46,10 @@ DOMAIN-SUFFIX,liqiye.com
 DOMAIN-SUFFIX,playlab.eu.org
 DOMAIN-SUFFIX,webshare.io
 
-#R星服务器
+# R星服务器
 DOMAIN-SUFFIX,ros.rockstargames.com
 
-#王者荣耀国际服
+# 王者荣耀国际服
 DOMAIN,ssl.msdk.qq.com
 DOMAIN,dlied5.qq.com
 DOMAIN,hok-dr.intlgame.com
@@ -59,14 +59,3 @@ DOMAIN,g-client-prod.cloud-control.smoba.qq.com
 DOMAIN-SUFFIX,sgameglobal.com.acc.edgeonedy1.com
 DOMAIN,android.crashsight.wetest.net
 DOMAIN,res.sgameglobal.com
-
-
-
-
-
-
-
-
-
-
-
