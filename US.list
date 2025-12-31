@@ -1,4 +1,4 @@
-#邮箱
+# 邮箱
 DOMAIN,imap.gmail.com
 DOMAIN,smtp.gmail.com
 DOMAIN,outlook.office365.com
@@ -13,19 +13,19 @@ DOMAIN,smtp.mail.ru
 DOMAIN,imap.zoho.com
 DOMAIN,smtp.zoho.com
 
-#SSH
+# SSH
 AND,(DOMAIN,us.paipaijin.dpdns.org),(DST-PORT,23478)
 
-#域名
+# 域名
 DOMAIN-SUFFIX,digitalplat.org
 
-#请愿书
+# 请愿书
 DOMAIN-SUFFIX,change.org
 
-#蓝叠
+# 蓝叠
 DOMAIN-SUFFIX,bluestacks.com
 
-#WPS国际
+# WPS国际
 DOMAIN-SUFFIX,wps.com
 DOMAIN-SUFFIX,wpscdn.com
 DOMAIN-SUFFIX,kscord.com
@@ -35,38 +35,38 @@ DOMAIN-SUFFIX,docer.com
 DOMAIN-SUFFIX,wpsmail.net
 DOMAIN-SUFFIX,papocket.com
 
-#教育邮箱
+# 教育邮箱
 DOMAIN-SUFFIX,californiacolleges.edu
 DOMAIN-SUFFIX,ccc.edu
 
-#人机验证
+# 人机验证
 DOMAIN-SUFFIX,nopecha.com
 
-#百度网盘国际版
+# 百度网盘国际版
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,teraboxcdn.com
 DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duboxcdn.com
 
-#Ubuntu
+# Ubuntu
 DOMAIN-SUFFIX,ubuntu.com
 
-#拉库
+# 拉库
 DOMAIN-SUFFIX,git.metauniverse-cn.com
 
-#freenom
+# Freenom
 DOMAIN-SUFFIX,freenom.com
 
-#博客
+# 博客
 DOMAIN-SUFFIX,www.blueskyxn.com
 
-#V.PS
+# V.PS
 DOMAIN-SUFFIX,vps.hosting
 
-#theync
+# Theync
 DOMAIN-SUFFIX,theync.com
 
-#firefox
+# Firefox
 DOMAIN,mdn.mozillademos.org
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,mozilla.community
@@ -91,5 +91,5 @@ DOMAIN-SUFFIX,mdn.allizom.net
 DOMAIN-SUFFIX,mdn.mozit.cloud
 DOMAIN-SUFFIX,developer.allizom.org
 
-#暗网
+# 暗网
 DOMAIN-SUFFIX,onion
