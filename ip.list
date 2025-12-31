@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,biliapi.net
 IP-CIDR,203.107.1.0/24,no-resolve
 DOMAIN,api.bilibili.tv 
 DOMAIN-SUFFIX,biliapi.com 
+
 #贴吧
 DOMAIN,tieba.baidu.com 
 DOMAIN,tbmsg.baidu.com
@@ -16,19 +17,24 @@ DOMAIN,httpsdns.baidu.com
 DOMAIN,c.tieba.baidu.com
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpdns.baidubce.com
+
 #头条
 DOMAIN-SUFFIX,toutiaoapi.com
+
 #贴吧
 DOMAIN,api.coolapk.com
 DOMAIN,api2.coolapk.com
+
 # TapTap 
 DOMAIN,api.taptapdada.com
+
 #斗鱼
 DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,douyu.com
+
  # 知乎
 DOMAIN,zhihu-web-analytics.zhihu.com
 DOMAIN,www.zhihu.com
 DOMAIN,api.zhihu.com 
-
 DOMAIN-SUFFIX,zhihu.com
+
