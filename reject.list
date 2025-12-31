@@ -1,25 +1,25 @@
-#国家诈骗中心
+# 国家诈骗中心
 DOMAIN-SUFFIX,gjfzpt.cn
 IP-CIDR,219.143.187.136/32,no-resolve
 
-#quetta更新
+# Quetta更新
 DOMAIN-SUFFIX,quetta.net
 
-#pikpak
+# PikPak
 DOMAIN,access.mypikpak.com
 DOMAIN,access.mypikpak.net
 DOMAIN,access.pikpak.me
 DOMAIN,access.pikpakdrive.com
 
-#MIUI更新
+# MIUI更新
 DOMAIN-SUFFIX,bigota.d.miui.com
 DOMAIN-SUFFIX,update.miui.com
 
-#知乎
+# 知乎
 IP-CIDR,118.89.204.198/23,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/40
 
-#bilibili
+# BiLiBiLi
 DOMAIN,httpdns.bilivideo.com 
 IP-CIDR,47.101.175.206/32,no-resolve
 IP-CIDR,47.100.123.169/32,no-resolve
@@ -38,6 +38,7 @@ IP-CIDR,116.63.10.31/32,no-resolve
 IP-CIDR,112.64.218.119/32,no-resolve
 IP-CIDR,112.65.200.117/32,no-resolve
 
-#quic
+# Quic
 AND,(AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_domain)))),(NOT,((DOMAIN,onedrive.live.com)))
 AND,(AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_ip,no-resolve)))),(NOT,((DOMAIN,onedrive.live.com)))
+
