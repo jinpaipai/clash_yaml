@@ -1,53 +1,53 @@
-#卡巴斯基
+# 卡巴斯基
 DOMAIN,tfu.s.kaspersky-labs.com
 DOMAIN-SUFFIX,upd.kaspersky.com
 
-#Docker下载
+# Docker下载
 DOMAIN,production.cloudflare.docker.com
 
-#大模型
+# 大模型
 DOMAIN,cas-bridge.xethub.hf.co
 
-#syncthing官方服务器
+# Syncthing官方服务器
 DOMAIN,stun.voipstunt.com
 DOMAIN-SUFFIX,syncthing.net
 
-#AVG
+# AVG
 DOMAIN,honzik.avcdn.net
 
-#R星下载
+# R星下载
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,cdn.battleye.com
 
-#Pycharm
+# PyCharm
 DOMAIN,download-cdn.jetbrains.com
 DOMAIN,downloads.marketplace.jetbrains.com
 
-#Github下载
+# GitHub下载
 DOMAIN,release-assets.githubusercontent.com
 
-#AI模型
+# AI模型
 DOMAIN-SUFFIX,r2.cloudflarestorage.com
 
-#游戏80端口
+# 游戏80端口
 DOMAIN,cloudflare.epicgamescdn.com
 DOMAIN,egdownload.fastly-edge.com
 
-#pikpak
+# PikPak
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,pikpak.me
 DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN,o4504926511693824.ingest.sentry.io
 
-#Nvidia驱动
+# Nvidia驱动
 DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-SUFFIX,images.nvidia.com
 DOMAIN-SUFFIX,international-gfe.download.nvidia.com
 
-#AMD驱动
+# AMD驱动
 DOMAIN,drivers.amd.com
 
-#微软
+# 微软
 DOMAIN-SUFFIX,msedge.sf.dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,ts.cdn.office.net
@@ -55,50 +55,43 @@ DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN,officecdn.microsoft.com
 DOMAIN,1d.tlu.dl.delivery.mp.microsoft.com
 
-#Debian
+# Debian
 DOMAIN-SUFFIX,ftp.acc.umu.se
 
-#罗技更新
+# 罗技更新
 DOMAIN-SUFFIX,updates.ghub.logitechg.com
 AND,(DOMAIN-KEYWORD,download),(DOMAIN-SUFFIX,logi.com)
 
-#微星
+# 微星
 DOMAIN-SUFFIX,download.msi.com
 
-#intel
+# Intel
 DOMAIN-SUFFIX,downloadmirror.intel.com
 
-#apkpure
+# Apkpure
 DOMAIN-SUFFIX,winudf.com
 
-#迅雷下载
+# 迅雷下载
 DOMAIN-SUFFIX,wap.sandai.net
 
-#Fydeos系统
+# Fydeos系统
 DOMAIN-SUFFIX,fydeos.com
 DOMAIN,download.fydeos.io
 
-#openwrt定制固件下载
+# Openwrt定制固件下载
 DOMAIN-SUFFIX,dl.openwrt.ai
 
-#线刷包下载
+# 线刷包下载
 DOMAIN-SUFFIX,aliyuncs.com
 
-#Python
+# Python
 DOMAIN,files.pythonhosted.org
 
-#EA更新
+# EA更新
 DOMAIN,cdn.eaanticheat.ac.ea.com
 
-#Battlfied6
+# Battlfied6
 DOMAIN,rls.tapurl.com
 
-#Syncting
+# Syncting
 AND,(DST-PORT,22067),(DOMAIN,us.paipaijin.dpdns.org)
-
-
-
-
-
-
-
