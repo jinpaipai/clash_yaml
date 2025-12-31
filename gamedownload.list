@@ -1,15 +1,15 @@
-#epic
+# Epic
 fastly-download.epicgames.com
 +.epicgamesdownload11251447533.file.myqcloud.com
 egdownload.fastly-edge.com
 
-#ubisoft
+# Ubisoft
 ubisoftconnect.cdn.ubi.com
 ubisoftconnect.eo-edgefunctions7.com
 +.uplaypc-s-ubisoft.cdn.ubi.com
 static3.cdn.ubi.com
 
-#Steam下载
+# Steam下载
 steamcloud-hk.storage.googleapis.com
 steamcloudhk2.blob.core.windows.net
 +.xz.pphimalayanrt.com
@@ -28,61 +28,56 @@ steamcloudhk2.blob.core.windows.net
 +.cdnali.content.steamchina.com
 +.steamusercontenta.akamaihd.net
 
-#Xbox
+# Xbox
 +.assets1.xboxlive.com
 +.assets2.xboxlive.com
 +.d1.xboxlive.com
 +.d2.xboxlive.com
 
-#R星
+# R星
 +.ks-foundation.secure.dyn.riotcdn.net
 +.riot-client.dyn.riotcdn.net
 +.content.cfx.re
 gamedownloadsrockstargamescom.akamaized.net
 
-#EA
+# EA
 ssllvlt.cdn.ea.com
 ssl-lvlt.cdn.ea.com
 origina.akamaihd.net
 origin-a.akamaihd.net
 
-#麻将
+# 麻将
 +.redstone-launcher.mojang.com
 +.launcher.mojang.com
 
-#战网
+# 战网
 +.client05.pdl.wow.battlenet.com.cn
 +.client02.pdl.wow.battlenet.com.cn
 +.eu.cdn.blizzard.com
 
-#GOG
+# GOG
 +.gog.qtlglb.com
 
-#雷电模拟器
+# 雷电模拟器
 +.encdn.ldmnq.com
 +.cdn.ldplayer.net
 
-#三角洲行动
+# 三角洲行动
 download.dgameglobal.com
 
-#网易下载
+# 网易下载
 +.gph.easebar.com
 
-#绝区零
+# 绝区零
 +.autopatchos.zenlesszonezero.com
 
-#原神
+# 原神
 +.autopatchhk.yuanshen.com
 
-#鸣潮
+# 鸣潮
 +.hw-pcdownload-aliyun.aki-game.net
 +.hw-pcdownload-akamai.aki-game.net
 
-#gal
+# Gal
 +.galgame.ing
 +.download.sgameglobal.com
-
-
-
-
-
