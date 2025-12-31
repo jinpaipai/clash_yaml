@@ -6,22 +6,18 @@ DOMAIN-SUFFIX,jinpaipai.qzz.io
 #lisahost  HK
 IP-CIDR,154.64.246.89/32,no-resolve
 
-#US
-IP-CIDR,45.140.88.247/32,no-resolve
+#Vmiss  US
+IP-CIDR,216.40.86.169/32,no-resolve
 
-#uqidc  HK
+#uqidc  HK2
 IP-CIDR,103.51.144.18/32,no-resolve
+
+#racknerd  US2
+IP-CIDR,104.223.33.178/32,no-resolve
 
 #Claw
 DOMAIN-SUFFIX,clawcloudrun.com
 
-#racknerd
-IP-CIDR,104.223.33.178/32,no-resolve
-
 #cnd
 IP-CIDR,172.64.158.198/32,no-resolve
 IP-CIDR,172.64.144.125/32,no-resolve
-
-#Vmiss
-IP-CIDR,216.40.86.169/32,no-resolve
-
