@@ -1,29 +1,29 @@
-#懒洋洋
+# 懒洋洋
 DOMAIN-SUFFIX,haokazhijia.net
 
-#沉浸式翻译
+# 沉浸式翻译
 DOMAIN-SUFFIX,immersivetranslate.com
 
-#microsoft
+# Microsoft
 DOMAIN-SUFFIX,software.download.prss.microsoft.com
 
-#sci
+# SCI
 DOMAIN-SUFFIX,clarivate.com
 
-#CFN
+# CFN
 DOMAIN-SUFFIX,cnfaster.com
 
-#CF穿透
+# CF穿透
 AND,(DOMAIN-SUFFIX,v2.argotunnel.com),(DOMAIN-KEYWORD,region)
 
-#dns
+# DNS
 IP-CIDR6,2620:74:1c::2:2/128,no-resolve
 IP-CIDR6,2606:4700:4700::1001/128,no-resolve
 IP-CIDR6,2620:74:1b::1:1/128,no-resolve
 IP-CIDR6,2606:4700:4700::1111/128,no-resolve
 IP-CIDR6,2001:4860:4860::8888/128,no-resolve
 
-#机场节点
+# 机场节点
 DOMAIN-SUFFIX,jueduibupao.top
 DOMAIN-SUFFIX,6bnw.top
 DOMAIN-SUFFIX,sssyun.xyz
@@ -32,23 +32,23 @@ DOMAIN-SUFFIX,bestcf.top
 DOMAIN-SUFFIX,idsduf.com
 DOMAIN-SUFFIX,whtjdasha.com
 
-#e5脚本
+# E5脚本
 DOMAIN,login.microsoftonline.com
 DOMAIN,graph.microsoft.com
 
-#虚拟visa卡
+# 虚拟visa卡
 DOMAIN-SUFFIX,fomepay.com
 
-#美团微信小程序
+# 美团微信小程序
 DOMAIN-SUFFIX,p0.meituan.net
 
-#limewave 
+# Limewave 
 DOMAIN-SUFFIX,limewave.net
 
-#甲骨文
+# 甲骨文
 DOMAIN-SUFFIX,oracle.com
 
-#wechat
+# WeChat
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,servicewechat.com
@@ -72,7 +72,8 @@ IP-CIDR,129.226.107.244/32,no-resolve
 IP-CIDR,129.226.3.47/32,no-resolve
 IP-CIDR,162.62.163.63/32,no-resolve
 
-#----斗鱼直播流 
+######################################
+# 斗鱼直播流 
 DOMAIN-SUFFIX,hls3-akm.douyucdn.cn
 DOMAIN-SUFFIX,hlsa-akm.douyucdn.cn
 DOMAIN-SUFFIX,hls1a-akm.douyucdn.cn
@@ -83,32 +84,15 @@ DOMAIN-SUFFIX,ws-tct.douyucdn.cn
 DOMAIN-SUFFIX,akm-tct.douyucdn.cn
 DOMAIN-SUFFIX,tx2play1.douyucdn.cn
 DOMAIN-SUFFIX,tc-tct1.douyucdn.cn
-#direct弹幕
+# Direct弹幕
 DOMAIN-SUFFIX,wsproxy.douyu.com
 DOMAIN-SUFFIX,danmuproxy.douyu.com
-#direct图片
+# Direct图片
 DOMAIN-SUFFIX,img.douyucdn.cn
-#----斗鱼直播流 
+######################################
 
-#aria
+# Aria
 DOMAIN-SUFFIX,avira.com
 
-#博客
+# 博客
 DOMAIN,www.zhujiceping.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
