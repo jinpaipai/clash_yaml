@@ -1,4 +1,4 @@
-#epic
+# Epic
 +.epicbreakers.com
 +.epicc-cdn.com
 +.epicsy.ac
@@ -15,7 +15,7 @@
 +.unrealengine.com
 +.unrealtournament.com
 
-#steam
+# Steam
 +.globalapi.smart2pay.com
 +.store.akamai.steamstatic.com
 +.cdn-ali.content.steamchina.com
@@ -55,7 +55,7 @@
 +.valvesoftware.com
 +.wmsjsteam.com
 
-#烂橘子
+# EA
 +.anthemgame.com
 +.anthemthegame.com
 +.apexlegends.com
@@ -225,8 +225,7 @@ rtm.tnt-ea.com
 ssl-lvlt.cdn.ea.com
 +.origin.com
 
-#R星平台
-#R星
+# R星
 +.videos-rockstargames-com.akamaized.net
 +.gamedownloads-rockstargames-com.akamaized.net
 +.media-rockstargames-com.akamaized.net
@@ -235,7 +234,7 @@ ssl-lvlt.cdn.ea.com
 +.videos-rockstargames-com.akamaized.net
 +.ingest.sentry.io
 
-#战网
+# 战网
 blizzard.nefficient.co.kr
 blzddist1-a.akamaihd.net
 blzddistkr1-a.akamaihd.net
@@ -244,7 +243,7 @@ cdn.blz-contentstack.com
 +.battle.net
 +.blizzard.com
 
-#Xbox
+# Xbox
 img-prod-cms-rt-microsoft-com.akamaized.net
 logincdn.msauth.net
 store-images.s-microsoft.com
@@ -286,9 +285,3 @@ store-images.s-microsoft.com
 +.xboxservices.com
 +.xboxstudios.com
 +.xbx.lv
-
-
-
-
-
-
