@@ -5,8 +5,7 @@ AND,(DST-PORT,36574),(DOMAIN,mihomo.jinpaipai.top)
 AND,(DST-PORT,48712),(DOMAIN,rtmp.jinpaipai.top)
 #Debian-Nezha-Frp
 AND,(DST-PORT,27415),(DOMAIN,nezha.jinpaipai.top)
-#Debian-SSH-Frp
-AND,(DST-PORT,57892),(DOMAIN-SUFFIX,jinpaipai.top)
+
 #Debian-SRS-Frp
 AND,(DST-PORT,35687),(DOMAIN-SUFFIX,jinpaipai.top)
 #Frp
@@ -59,6 +58,7 @@ DOMAIN,g-client-prod.cloud-control.smoba.qq.com
 DOMAIN-SUFFIX,sgameglobal.com.acc.edgeonedy1.com
 DOMAIN,android.crashsight.wetest.net
 DOMAIN,res.sgameglobal.com
+
 
 
 
