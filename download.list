@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,upd.kaspersky.com
 
 # Docker下载
 DOMAIN,production.cloudflare.docker.com
+DOMAIN-SUFFIX,dl.sourceforge.net
 
 # 大模型
 DOMAIN,cas-bridge.xethub.hf.co
@@ -95,3 +96,4 @@ DOMAIN,rls.tapurl.com
 
 # Syncting
 AND,(DST-PORT,22067),(DOMAIN,us.paipaijin.dpdns.org)
+
