@@ -99,5 +99,6 @@ DOMAIN,rls.tapurl.com
 
 # Syncting
 AND,(DST-PORT,22067),(DOMAIN,us.paipaijin.dpdns.org)
+AND,(DST-PORT,22067),(DOMAIN,www.jinpaipai.qzz.io)
 
 
