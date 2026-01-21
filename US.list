@@ -92,4 +92,5 @@ DOMAIN-SUFFIX,mdn.mozit.cloud
 DOMAIN-SUFFIX,developer.allizom.org
 
 # 暗网
-DOMAIN-SUFFIX,onion
+DOMAIN-SUFFIX,onion,no-resolve
+
