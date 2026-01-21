@@ -10,6 +10,7 @@ ubisoftconnect.eo-edgefunctions7.com
 static3.cdn.ubi.com
 
 # Steam下载
+client-update.steamstatic.com
 steamcloud-hk.storage.googleapis.com
 steamcloudhk2.blob.core.windows.net
 +.xz.pphimalayanrt.com
@@ -81,3 +82,4 @@ download.dgameglobal.com
 # Gal
 +.galgame.ing
 +.download.sgameglobal.com
+
