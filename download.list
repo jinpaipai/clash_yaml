@@ -86,7 +86,7 @@ DOMAIN,download.fydeos.io
 DOMAIN-SUFFIX,dl.openwrt.ai
 
 # 线刷包下载
-DOMAIN-SUFFIX,aliyuncs.com
+AND,(DOMAIN-SUFFIX,aliyuncs.com),(DOMAIN-KEYWORD,miui-ota-update)
 
 # Python
 DOMAIN,files.pythonhosted.org
@@ -100,3 +100,4 @@ DOMAIN,rls.tapurl.com
 #syncthing
 AND,(DOMAIN,www.jinpaipai.qzz.io),(DST-PORT,22067)
 AND,(DOMAIN,us.paipaijin.dpdns.org),(DST-PORT,22067)
+
