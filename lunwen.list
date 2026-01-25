@@ -1,2 +1,7 @@
 AND,(DOMAIN-SUFFIX,csust.edu.cn),(DOMAIN-KEYWORD,sciencedirect)
 AND,(DOMAIN-SUFFIX,csust.edu.cn),(DOMAIN-KEYWORD,ieeexplore)
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,api.plu.mx
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,engineeringvillage.com
+DOMAIN-SUFFIX,clarivate.com
