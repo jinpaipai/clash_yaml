@@ -7,9 +7,6 @@ DOMAIN-SUFFIX,immersivetranslate.com
 # Microsoft
 DOMAIN-SUFFIX,software.download.prss.microsoft.com
 
-# SCI
-DOMAIN-SUFFIX,clarivate.com
-
 # CFN
 DOMAIN-SUFFIX,cnfaster.com
 
@@ -96,3 +93,4 @@ DOMAIN-SUFFIX,avira.com
 
 # 博客
 DOMAIN,www.zhujiceping.com
+
