@@ -1,3 +1,7 @@
+#弱智网站
+DOMAIN-SUFFIX,linux.do
+DOMAIN,www.baidu.com
+
 # 国家诈骗中心
 DOMAIN-SUFFIX,gjfzpt.cn
 IP-CIDR,219.143.187.136/32,no-resolve
@@ -41,3 +45,4 @@ IP-CIDR,112.65.200.117/32,no-resolve
 # Quic
 #AND,(AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_domain)))),(NOT,((DOMAIN,onedrive.live.com)))
 #AND,(AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(NOT,((RULE-SET,cn_ip,no-resolve)))),(NOT,((DOMAIN,onedrive.live.com)))
+
