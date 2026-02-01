@@ -34,10 +34,7 @@ DOMAIN,api.verycapture.com
 # 饭太硬导航
 DOMAIN,www.xn--sss604efuw.com
 
-# DeepSeek
-DOMAIN-SUFFIX,deepseek.com
-
-$ SubStracker
+# SubStracker
 DOMAIN,substraker.paipaijin.dpdns.org
 
 # 博客
@@ -65,3 +62,4 @@ DOMAIN,res.sgameglobal.com
 
 #oppo国际社区
 DOMAIN,community.oneplus.com
+
