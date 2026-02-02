@@ -8,12 +8,10 @@ AND,(DST-PORT,27415),(DOMAIN,nezha.jinpaipai.top)
 # Debian-SSH-Frp
 AND,(DST-PORT,57892),(DOMAIN,ssh.jinpaipai.top)
 # Debian-SRS-Frp
-AND,(DST-PORT,35687),(DOMAIN-SUFFIX,jinpaipai.top)
+AND,(DST-PORT,35687),(DOMAIN,srs.jinpaipai.top)
 # Frp
 AND,(DST-PORT,7500),(DOMAIN,frp.jinpaipai.top)
 AND,(DST-PORT,7000),(DOMAIN,frp.jinpaipai.top)
-# Https
-AND,(DST-PORT,1443),(RULE-SET,vps_list)
 # Frp-Https
 AND,(DST-PORT,5001),(RULE-SET,vps_list)
 # Frp-Http
@@ -62,4 +60,5 @@ DOMAIN,res.sgameglobal.com
 
 #oppo国际社区
 DOMAIN,community.oneplus.com
+
 
