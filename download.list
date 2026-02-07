@@ -101,3 +101,4 @@ DOMAIN,rls.tapurl.com
 AND,(DOMAIN,www.jinpaipai.qzz.io),(DST-PORT,22067)
 AND,(DOMAIN,us.paipaijin.dpdns.org),(DST-PORT,22067)
 
+DOMAIN,gobob-yasl.mushroomtrack.com
