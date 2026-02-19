@@ -97,8 +97,5 @@ DOMAIN,cdn.eaanticheat.ac.ea.com
 # Battlfied6
 DOMAIN,rls.tapurl.com
 
-#syncthing
-AND,(DOMAIN,www.jinpaipai.qzz.io),(DST-PORT,22067)
-AND,(DOMAIN,us.paipaijin.dpdns.org),(DST-PORT,22067)
-
 DOMAIN,gobob-yasl.mushroomtrack.com
+
