@@ -13,8 +13,8 @@ DOMAIN,smtp.mail.ru
 DOMAIN,imap.zoho.com
 DOMAIN,smtp.zoho.com
 
-# SSH
-AND,(DOMAIN,us.paipaijin.dpdns.org),(DST-PORT,23478)
+# 哪吒面板
+DOMAIN,nezha.paipaijin.dpdns.org
 
 # 域名
 DOMAIN-SUFFIX,digitalplat.org
@@ -93,4 +93,5 @@ DOMAIN-SUFFIX,developer.allizom.org
 
 # 暗网
 DOMAIN-SUFFIX,onion,no-resolve
+
 
