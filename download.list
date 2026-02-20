@@ -2,6 +2,9 @@
 DOMAIN,tfu.s.kaspersky-labs.com
 DOMAIN-SUFFIX,upd.kaspersky.com
 
+#王者国际服下载
+DOMAIN,download.sgameglobal.com
+
 # Docker下载
 DOMAIN,production.cloudflare.docker.com
 DOMAIN-SUFFIX,dl.sourceforge.net
@@ -97,3 +100,4 @@ DOMAIN,cdn.eaanticheat.ac.ea.com
 # Battlfied6
 DOMAIN,rls.tapurl.com
 DOMAIN,gobob-yasl.mushroomtrack.com
+
