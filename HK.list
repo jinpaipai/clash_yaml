@@ -63,6 +63,7 @@ DOMAIN,dns.quad9.net
 DOMAIN,nextdns.io
 DOMAIN,adguard-dns.com
 DOMAIN,dns.adguard.com
+DOMAIN,doh.opendns.com
 
 
 
