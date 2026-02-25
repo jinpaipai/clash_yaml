@@ -13,13 +13,6 @@ DOMAIN-SUFFIX,cnfaster.com
 # CF穿透
 AND,(DOMAIN-SUFFIX,v2.argotunnel.com),(DOMAIN-KEYWORD,region)
 
-# DNS
-IP-CIDR6,2620:74:1c::2:2/128,no-resolve
-IP-CIDR6,2606:4700:4700::1001/128,no-resolve
-IP-CIDR6,2620:74:1b::1:1/128,no-resolve
-IP-CIDR6,2606:4700:4700::1111/128,no-resolve
-IP-CIDR6,2001:4860:4860::8888/128,no-resolve
-
 # 机场节点
 DOMAIN-SUFFIX,jueduibupao.top
 DOMAIN-SUFFIX,6bnw.top
@@ -93,4 +86,5 @@ DOMAIN-SUFFIX,avira.com
 
 # 博客
 DOMAIN,www.zhujiceping.com
+
 
