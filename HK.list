@@ -56,6 +56,11 @@ DOMAIN,res.sgameglobal.com
 #oppo国际社区
 DOMAIN,community.oneplus.com
 
+#dns
+DOMAIN,dns.adguard.com
+DOMAIN,dns.google
+DOMAIN,dns.adguard.com
+DOMAIN,cloudflare-dns.com
 
 
 
