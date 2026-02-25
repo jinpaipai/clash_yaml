@@ -57,10 +57,13 @@ DOMAIN,res.sgameglobal.com
 DOMAIN,community.oneplus.com
 
 #dns
-DOMAIN,dns.adguard.com
-DOMAIN,dns.google
-DOMAIN,dns.adguard.com
 DOMAIN,cloudflare-dns.com
+DOMAIN,dns.google
+DOMAIN,dns.quad9.net
+DOMAIN,nextdns.io
+DOMAIN,adguard-dns.com
+DOMAIN,dns.adguard.com
+
 
 
 
