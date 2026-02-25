@@ -15,9 +15,6 @@ AND,(DST-PORT,5001),(RULE-SET,vps_list)
 # Frp-Http
 AND,(DST-PORT,5000),(RULE-SET,vps_list)
 
-# Hanime1
-DOMAIN-SUFFIX,hanime1.me
-
 # Steamdb
 DOMAIN-SUFFIX,steamdb.info
 
@@ -58,6 +55,7 @@ DOMAIN,res.sgameglobal.com
 
 #oppo国际社区
 DOMAIN,community.oneplus.com
+
 
 
 
