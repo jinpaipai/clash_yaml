@@ -12,9 +12,9 @@ IP-CIDR,103.51.144.18/32,no-resolve
 # RackNerd  US2
 IP-CIDR,104.223.33.178/32,no-resolve
 #US-Ipv6
-IP-CIDR6,2604:abc0:50::b00c,no-resolve
+IP-CIDR6,2604:abc0:50::b00c/128,no-resolve
 #CNIX
-IP-CIDR,163.5.175.35,no-resolve
+IP-CIDR,163.5.175.35/32,no-resolve
 # Claw
 DOMAIN-SUFFIX,clawcloudrun.com
 
