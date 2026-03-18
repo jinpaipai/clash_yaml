@@ -1,21 +1,20 @@
-# VPS
+##### VPS
 DOMAIN-SUFFIX,jinpaipai.top
 DOMAIN-SUFFIX,jinpaipai.fun
 DOMAIN-SUFFIX,paipaijin.dpdns.org
 DOMAIN-SUFFIX,jinpaipai.qzz.io
-
 # LisaHost  HK
 IP-CIDR,154.64.246.89/32,no-resolve
-
 # Vmiss  US
 IP-CIDR,216.40.86.169/32,no-resolve
-
 # Uqidc  HK2
 IP-CIDR,103.51.144.18/32,no-resolve
-
 # RackNerd  US2
 IP-CIDR,104.223.33.178/32,no-resolve
-
+#US-Ipv6
+IP-CIDR6,2604:abc0:50::b00c,no-resolve
+#CNIX
+IP-CIDR,163.5.175.35,no-resolve
 # Claw
 DOMAIN-SUFFIX,clawcloudrun.com
 
