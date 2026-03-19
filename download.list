@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,upd.kaspersky.com
 #王者国际服下载
 DOMAIN,download.sgameglobal.com
 
+#EA下载
+DOMAIN,origin-a.akamaihd.net
+
 # Docker下载
 DOMAIN,production.cloudflare.docker.com
 DOMAIN-SUFFIX,dl.sourceforge.net
