@@ -1,3 +1,6 @@
 AND,(DOMAIN,us3.paipaijin.dpdns.org),(DST-PORT,22067)
 AND,(DOMAIN,us.paipaijin.dpdns.org),(DST-PORT,22067)
+AND,(DOMAIN,us3.paipaijin.dpdns.org),(DST-PORT,8443)
+AND,(DOMAIN,us.paipaijin.dpdns.org),(DST-PORT,8443)
 AND,(RULE-SET,vps_list),(DST-PORT,22067)
+AND,(RULE-SET,vps_list),(DST-PORT,8443)
