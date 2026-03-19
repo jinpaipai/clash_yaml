@@ -2,9 +2,6 @@
 DOMAIN,tfu.s.kaspersky-labs.com
 DOMAIN-SUFFIX,upd.kaspersky.com
 
-#王者国际服下载
-DOMAIN,download.sgameglobal.com
-
 #EA下载
 DOMAIN,origin-a.akamaihd.net
 
