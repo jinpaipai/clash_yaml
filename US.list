@@ -13,9 +13,6 @@ DOMAIN,smtp.mail.ru
 DOMAIN,imap.zoho.com
 DOMAIN,smtp.zoho.com
 
-# 哪吒面板
-DOMAIN,nezha.paipaijin.dpdns.org
-
 # 域名
 DOMAIN-SUFFIX,digitalplat.org
 
