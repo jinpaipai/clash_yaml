@@ -1,6 +1,9 @@
 #US2-SSH
 AND,(DST-PORT,23478),(DOMAIN,us.paipaijin.dpdns.org)
 
+#youtube revanced
+DOMAIN-SUFFIX,vanced.to
+
 # 卡巴斯基
 DOMAIN,tfu.s.kaspersky-labs.com
 DOMAIN-SUFFIX,upd.kaspersky.com
