@@ -13,9 +13,6 @@ DOMAIN,smtp.mail.ru
 DOMAIN,imap.zoho.com
 DOMAIN,smtp.zoho.com
 
-#youtube revanced
-DOMAIN-SUFFIX,vanced.to
-
 # 域名
 DOMAIN-SUFFIX,digitalplat.org
 
