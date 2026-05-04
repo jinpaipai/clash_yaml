@@ -1,6 +1,9 @@
 #US2-SSH
 AND,(DST-PORT,23478),(DOMAIN,us.paipaijin.dpdns.org)
 
+#德州电气下载
+DOMAIN,dr-download.ti.com
+
 #youtube revanced
 DOMAIN-SUFFIX,vanced.to
 
