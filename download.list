@@ -110,6 +110,9 @@ DOMAIN,cdn.eaanticheat.ac.ea.com
 DOMAIN,rls.tapurl.com
 DOMAIN,gobob-yasl.mushroomtrack.com
 
+#  王者荣耀国际服下载
+DOMAIN,download.sgameglobal.com
+
 #sq
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,xvideos.com
