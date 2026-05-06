@@ -1,8 +1,8 @@
 #免费VPS
-DOMAIN,run.freecloud.ltd
-DOMAIN,api_de.888495.xyz
-DOMAIN,ws_de.888495.xyz
-IP-CIDR,2.58.196.79/32,no-resolve
+DOMAIN,nat.freecloud.ltd
+#DOMAIN,api_de.888495.xyz
+#DOMAIN,ws_de.888495.xyz
+#IP-CIDR,2.58.196.79/32,no-resolve
 
 # 邮箱
 DOMAIN,imap.gmail.com
