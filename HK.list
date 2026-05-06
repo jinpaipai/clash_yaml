@@ -1,3 +1,9 @@
+免费VPS
+DOMAIN,run.freecloud.ltd
+DOMAIN,api_de.888495.xyz
+DOMAIN,ws_de.888495.xyz
+IP-CIDR,2.58.196.79,no-resolve
+
 # VPS
 # Debian-Clash-Frp
 AND,(DST-PORT,36574),(DOMAIN,mihomo.jinpaipai.top)
