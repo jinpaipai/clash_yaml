@@ -2,7 +2,10 @@
 DOMAIN,run.freecloud.ltd
 DOMAIN,api_de.888495.xyz
 DOMAIN,ws_de.888495.xyz
+DOMAIN,api_de2.888495.xyz
+DOMAIN,ws_de2.888495.xyz
 IP-CIDR,2.58.196.79/32,no-resolve
+IP-CIDR6,2a12:de40:9::2ab:8/128,no-resolve
 
 # VPS
 # Debian-Clash-Frp
