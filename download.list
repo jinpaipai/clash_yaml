@@ -10,6 +10,9 @@ DOMAIN,updates-cdn.bravesoftware.com
 #youtube revanced
 DOMAIN-SUFFIX,vanced.to
 
+#Chatbox
+DOMAIN,download.chatboxai.app
+
 # 卡巴斯基
 DOMAIN,tfu.s.kaspersky-labs.com
 DOMAIN-SUFFIX,upd.kaspersky.com
