@@ -1,86 +1,84 @@
-# ================= 置顶 / 常用推荐 =================
-- DOMAIN-SUFFIX,steamcontent.com
-- DOMAIN-SUFFIX,client-update.akamai.steamstatic.com
-- DOMAIN-SUFFIX,steampipe.akamaized.net
-- DOMAIN-SUFFIX,assets1.xboxlive.com
-- DOMAIN-SUFFIX,assets2.xboxlive.com
-- DOMAIN,fastly-download.epicgames.com
+# Epic
+DOMAIN,fastly-download.epicgames.com
+DOMAIN-SUFFIX,epicgamesdownload11251447533.file.myqcloud.com
+DOMAIN,egdownload.fastly-edge.com
 
-# ================= Epic =================
-- DOMAIN-SUFFIX,epicgamesdownload11251447533.file.myqcloud.com
-- DOMAIN,egdownload.fastly-edge.com
+# Ubisoft
+DOMAIN,ubisoftconnect.cdn.ubi.com
+DOMAIN,ubisoftconnect.eo-edgefunctions7.com
+DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN,static3.cdn.ubi.com
 
-# ================= Ubisoft =================
-- DOMAIN,ubisoftconnect.cdn.ubi.com
-- DOMAIN,ubisoftconnect.eo-edgefunctions7.com
-- DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
-- DOMAIN,static3.cdn.ubi.com
+# Steam下载
+DOMAIN,client-update.steamstatic.com
+DOMAIN,steamcloud-hk.storage.googleapis.com
+DOMAIN,steamcloudhk2.blob.core.windows.net
+DOMAIN-SUFFIX,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,client-update.akamai.steamstatic.com
+DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net
+DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com
+DOMAIN-SUFFIX,gog-cdn-lumen.secure2.footprint.net
+DOMAIN-SUFFIX,cdnws.content.steamchina.com
+DOMAIN-SUFFIX,cdnqc.content.steamchina.com
+DOMAIN-SUFFIX,cdnali.content.steamchina.com
+DOMAIN-SUFFIX,steamusercontenta.akamaihd.net
 
-# ================= Steam下载 =================
-- DOMAIN,client-update.steamstatic.com
-- DOMAIN,steamcloud-hk.storage.googleapis.com
-- DOMAIN,steamcloudhk2.blob.core.windows.net
-- DOMAIN-SUFFIX,xz.pphimalayanrt.com
-- DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net
-- DOMAIN-SUFFIX,st.dl.eccdnx.com
-- DOMAIN-SUFFIX,st.dl.bscstorage.net
-- DOMAIN-SUFFIX,st.dl.pinyuncloud.com
-- DOMAIN-SUFFIX,dl.steam.clngaa.com
-- DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com
-- DOMAIN-SUFFIX,gog-cdn-lumen.secure2.footprint.net
-- DOMAIN-SUFFIX,cdnws.content.steamchina.com
-- DOMAIN-SUFFIX,cdnqc.content.steamchina.com
-- DOMAIN-SUFFIX,cdnali.content.steamchina.com
-- DOMAIN-SUFFIX,steamusercontenta.akamaihd.net
+# Xbox
+DOMAIN-SUFFIX,assets1.xboxlive.com
+DOMAIN-SUFFIX,assets2.xboxlive.com
+DOMAIN-SUFFIX,d1.xboxlive.com
+DOMAIN-SUFFIX,d2.xboxlive.com
 
-# ================= Xbox =================
-- DOMAIN-SUFFIX,d1.xboxlive.com
-- DOMAIN-SUFFIX,d2.xboxlive.com
+# R星
+DOMAIN-SUFFIX,ks-foundation.secure.dyn.riotcdn.net
+DOMAIN-SUFFIX,riot-client.dyn.riotcdn.net
+DOMAIN-SUFFIX,content.cfx.re
+DOMAIN,gamedownloadsrockstargamescom.akamaized.net
 
-# ================= R星 / 拳头 / 五号 =================
-- DOMAIN-SUFFIX,ks-foundation.secure.dyn.riotcdn.net
-- DOMAIN-SUFFIX,riot-client.dyn.riotcdn.net
-- DOMAIN-SUFFIX,content.cfx.re
-- DOMAIN,gamedownloadsrockstargamescom.akamaized.net
+# EA
+DOMAIN,ssllvlt.cdn.ea.com
+DOMAIN,ssl-lvlt.cdn.ea.com
+DOMAIN,origina.akamaihd.net
+DOMAIN,origin-a.akamaihd.net
 
-# ================= EA =================
-- DOMAIN,ssllvlt.cdn.ea.com
-- DOMAIN,ssl-lvlt.cdn.ea.com
-- DOMAIN,origina.akamaihd.net
-- DOMAIN,origin-a.akamaihd.net
+# 麻将
+DOMAIN-SUFFIX,redstone-launcher.mojang.com
+DOMAIN-SUFFIX,launcher.mojang.com
 
-# ================= 我的世界 (Mojang) =================
-- DOMAIN-SUFFIX,redstone-launcher.mojang.com
-- DOMAIN-SUFFIX,launcher.mojang.com
+# 战网
+DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn
+DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn
+DOMAIN-SUFFIX,eu.cdn.blizzard.com
 
-# ================= 战网 =================
-- DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn
-- DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn
-- DOMAIN-SUFFIX,eu.cdn.blizzard.com
+# GOG
+DOMAIN-SUFFIX,gog.qtlglb.com
 
-# ================= GOG =================
-- DOMAIN-SUFFIX,gog.qtlglb.com
+# 雷电模拟器
+DOMAIN-SUFFIX,encdn.ldmnq.com
+DOMAIN-SUFFIX,cdn.ldplayer.net
 
-# ================= 雷电模拟器 =================
-- DOMAIN-SUFFIX,encdn.ldmnq.com
-- DOMAIN-SUFFIX,cdn.ldplayer.net
+# 三角洲行动
+DOMAIN,download.dgameglobal.com
 
-# ================= 三角洲行动 =================
-- DOMAIN,download.dgameglobal.com
+# 网易下载
+DOMAIN-SUFFIX,gph.easebar.com
 
-# ================= 网易下载 =================
-- DOMAIN-SUFFIX,gph.easebar.com
+# 绝区零
+DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
 
-# ================= 绝区零 =================
-- DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
+# 原神
+DOMAIN-SUFFIX,autopatchhk.yuanshen.com
 
-# ================= 原神 =================
-- DOMAIN-SUFFIX,autopatchhk.yuanshen.com
+# 鸣潮
+DOMAIN-SUFFIX,hw-pcdownload-aliyun.aki-game.net
+DOMAIN-SUFFIX,hw-pcdownload-akamai.aki-game.net
 
-# ================= 鸣潮 =================
-- DOMAIN-SUFFIX,hw-pcdownload-aliyun.aki-game.net
-- DOMAIN-SUFFIX,hw-pcdownload-akamai.aki-game.net
-
-# ================= Galgame & Sgame =================
-- DOMAIN-SUFFIX,galgame.ing
-- DOMAIN-SUFFIX,download.sgameglobal.com
+# Gal
+DOMAIN-SUFFIX,galgame.ing
+DOMAIN-SUFFIX,download.sgameglobal.com
