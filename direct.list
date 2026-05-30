@@ -1,3 +1,8 @@
+#银行软件
+PROCESS-NAME,com.android.bankabc
+PROCESS-NAME,cmb.pb
+PROCESS-NAME,com.icbc
+
 # 懒洋洋
 DOMAIN-SUFFIX,haokazhijia.net
 
