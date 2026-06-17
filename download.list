@@ -1,3 +1,7 @@
+# 谷歌应用商店
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,services.googleapis.cn
+
 #US2-SSH
 AND,(DST-PORT,23478),(DOMAIN,us.paipaijin.dpdns.org)
 
