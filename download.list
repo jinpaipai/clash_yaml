@@ -1,77 +1,67 @@
-# 谷歌应用商店
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,services.googleapis.cn
-
 #US2-SSH
 AND,(DST-PORT,23478),(DOMAIN,us.paipaijin.dpdns.org)
 
 #applestore
 DOMAIN,iosapps.itunes.apple.com
 
-#Docker Download
-DOMAIN,production.cloudfront.docker.com
-
-#德州电气下载
+#   德州电气下载
 DOMAIN,dr-download.ti.com
 
-#Brave
+#   Brave
 DOMAIN,updates-cdn.bravesoftware.com
 
-#youtube revanced
+#   youtube revanced
 DOMAIN-SUFFIX,vanced.to
 
-#Chatbox
+#   Chatbox
 DOMAIN,download.chatboxai.app
 
-#EA下载
-DOMAIN,origin-a.akamaihd.net
-
-# Docker下载
+#   Docker下载
 DOMAIN,production.cloudflare.docker.com
 DOMAIN-SUFFIX,dl.sourceforge.net
 
-#比特梵德
+#   比特梵德
 DOMAIN,download.bitdefender.com
 
-# 大模型
+#   大模型
 DOMAIN,cas-bridge.xethub.hf.co
 
-# Syncthing官方服务器
+#   Syncthing官方服务器
 DOMAIN,stun.voipstunt.com
 DOMAIN-SUFFIX,syncthing.net
 
-# AVG
+#   AVG
 DOMAIN,honzik.avcdn.net
 
-# R星下载
-DOMAIN,gamedownloads-rockstargames-com.akamaized.net
-DOMAIN,cdn.battleye.com
-
-# PyCharm
+#   PyCharm
 DOMAIN,download-cdn.jetbrains.com
 DOMAIN,downloads.marketplace.jetbrains.com
 
-# GitHub下载
+#   GitHub下载
 DOMAIN,release-assets.githubusercontent.com
 
-# AI模型
+#   AI模型
 DOMAIN-SUFFIX,r2.cloudflarestorage.com
 
-# PikPak
+# 谷歌应用商店
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,services.googleapis.cn
+
+#   PikPak
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,pikpak.me
 DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN,o4504926511693824.ingest.sentry.io
 
-# Nvidia驱动
+#   Nvidia驱动
 DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-SUFFIX,images.nvidia.com
 DOMAIN-SUFFIX,international-gfe.download.nvidia.com
 
-# AMD驱动
+#   AMD驱动
 DOMAIN,drivers.amd.com
 
-# 微软
+#   微软
 DOMAIN-SUFFIX,msedge.sf.dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,ts.cdn.office.net
@@ -80,49 +70,52 @@ DOMAIN,officecdn.microsoft.com
 DOMAIN,1d.tlu.dl.delivery.mp.microsoft.com
 DOMAIN,c2rsetup.officeapps.live.com
 
-# Debian
+#   Debian
 DOMAIN-SUFFIX,ftp.acc.umu.se
 
-# 罗技更新
+#   罗技更新
 DOMAIN-SUFFIX,updates.ghub.logitechg.com
 AND,(DOMAIN-KEYWORD,download),(DOMAIN-SUFFIX,logi.com)
 
-# 微星
+#   微星
 DOMAIN-SUFFIX,download.msi.com
 
-# Intel
+#   Intel
 DOMAIN-SUFFIX,downloadmirror.intel.com
 
-# Apkpure
+#   Apkpure
 DOMAIN-SUFFIX,winudf.com
 
-# 迅雷下载
+#   迅雷下载
 DOMAIN-SUFFIX,wap.sandai.net
 
-# Fydeos系统
+#   Fydeos系统
 DOMAIN-SUFFIX,fydeos.com
 DOMAIN,download.fydeos.io
 
-# Openwrt定制固件下载
+#   Openwrt定制固件下载
 DOMAIN-SUFFIX,dl.openwrt.ai
 
-# 线刷包下载
+#   线刷包下载
 AND,(DOMAIN-SUFFIX,aliyuncs.com),(DOMAIN-KEYWORD,miui-ota-update)
 
-# Python
+#   Python
 DOMAIN,files.pythonhosted.org
 
-# EA更新
+#   Game
+#EA
 DOMAIN,cdn.eaanticheat.ac.ea.com
-
-# Battlfied6
+DOMAIN,origin-a.akamaihd.net
+#Battlfied6
 DOMAIN,rls.tapurl.com
 DOMAIN,gobob-yasl.mushroomtrack.com
-
-#  王者荣耀国际服下载
+#王者荣耀国际服下载
 DOMAIN,download.sgameglobal.com
+#R星
+DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN,cdn.battleye.com
 
-#sq
+#   颜色
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-KEYWORD,xvideos-cdn
@@ -130,4 +123,3 @@ DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN-SUFFIX,jable.tv
-
