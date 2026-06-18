@@ -9,8 +9,6 @@ IP-CIDR,2.58.196.79/32,no-resolve
 AND,(DST-PORT,36574),(DOMAIN,mihomo.jinpaipai.top)
 # Debian-RTMP-Frp
 AND,(DST-PORT,48712),(DOMAIN,rtmp.jinpaipai.top)
-# Debian-Nezha-Frp
-AND,(DST-PORT,27415),(DOMAIN,nezha.jinpaipai.top)
 # Debian-SRS-Frp
 AND,(DST-PORT,35687),(DOMAIN,srs.jinpaipai.top)
 # Frp
@@ -20,6 +18,10 @@ AND,(DST-PORT,7000),(DOMAIN,frp.jinpaipai.top)
 AND,(DST-PORT,5001),(RULE-SET,vps_list)
 # Frp-Http
 AND,(DST-PORT,5000),(RULE-SET,vps_list)
+#VPS小配置
+AND,(DST-PORT,1443),(DOMAIN,bitwarden.jinpaipai.to)
+AND,(DST-PORT,1443),(DOMAIN,2fauth.jinpaipai.top)
+AND,(DST-PORT,1443),(DOMAIN,substore.jinpaipai.top)
 
 # Steamdb
 DOMAIN-SUFFIX,steamdb.info
