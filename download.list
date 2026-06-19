@@ -69,6 +69,7 @@ DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN,officecdn.microsoft.com
 DOMAIN,1d.tlu.dl.delivery.mp.microsoft.com
 DOMAIN,c2rsetup.officeapps.live.com
+AND,(DOMAIN-SUFFIX,microsoft.com),(DOMAIN-KEYWORD,download)
 
 #   Debian
 DOMAIN-SUFFIX,ftp.acc.umu.se
