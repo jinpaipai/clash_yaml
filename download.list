@@ -115,12 +115,3 @@ DOMAIN,download.sgameglobal.com
 #R星
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,cdn.battleye.com
-
-#   颜色
-DOMAIN-SUFFIX,hembed.com
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-KEYWORD,xvideos-cdn
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,alonestreaming.com
-DOMAIN-SUFFIX,mushroomtrack.com
-DOMAIN-SUFFIX,jable.tv
