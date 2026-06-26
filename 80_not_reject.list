@@ -16,3 +16,4 @@ AND,(IP-CIDR,183.60.8.218/32),(DST-PORT,80)
 
 AND,(IP-CIDR,175.27.0.201/32),(DST-PORT,80)
 AND,(DOMAIN,down-update.qq.com),(DST-PORT,80)
+AND,(DOMAIN,connect.rom.miui.com),(DST-PORT,80)
