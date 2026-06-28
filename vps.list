@@ -3,20 +3,21 @@ DOMAIN-SUFFIX,jinpaipai.top
 DOMAIN-SUFFIX,jinpaipai.fun
 DOMAIN-SUFFIX,paipaijin.dpdns.org
 DOMAIN-SUFFIX,jinpaipai.qzz.io
+DOMAIN-SUFFIX,888495.xyz
 # LisaHost  HK
-IP-CIDR,64.90.14.20/32
+IP-CIDR,64.90.14.20/32,no-resolve
 # Vmiss  US
-IP-CIDR,216.40.86.169/32
+IP-CIDR,216.40.86.169/32,no-resolve
 # Uqidc  HK2
-IP-CIDR,103.51.144.18/32
+IP-CIDR,103.51.144.18/32,no-resolve
 # RackNerd  US2
-IP-CIDR,104.223.33.178/32
+IP-CIDR,104.223.33.178/32,no-resolve
 #US-Ipv6
-IP-CIDR6,2604:abc0:50::b00c/128
+IP-CIDR6,2604:abc0:50::b00c/128,no-resolve
 #CNIX
-IP-CIDR,163.5.175.35/32
+IP-CIDR,163.5.175.35/32,no-resolve
 #lightlayer
-IP-CIDR,45.200.49.159/32
+IP-CIDR,45.200.49.159/32,no-resolve
 
 # CDN
 IP-CIDR,172.64.158.198/32,no-resolve
