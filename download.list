@@ -1,6 +1,3 @@
-#US2-SSH
-AND,(DST-PORT,23478),(DOMAIN,us.paipaijin.dpdns.org)
-
 #applestore
 DOMAIN,iosapps.itunes.apple.com
 
