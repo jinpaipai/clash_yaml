@@ -3,7 +3,7 @@ AND,(DOMAIN-SUFFIX,wechatpay.cn),(DST-PORT,80)
 AND,(DOMAIN,xpis-xcdn.youku.com),(DST-PORT,80)
 AND,(DOMAIN-SUFFIX,beacon.qq.com),(DST-PORT,80)
 AND,(DOMAIN,heic.alicdn.com),(DST-PORT,80)
-
+AND,(DOMAIN,dl.delivery.mp.microsoft.com),(DST-PORT,80)
 
 
 AND,(DOMAIN,passport.baidu.com),(DST-PORT,80)
