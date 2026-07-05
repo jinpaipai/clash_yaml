@@ -4,7 +4,7 @@ AND,(DOMAIN,xpis-xcdn.youku.com),(DST-PORT,80)
 AND,(DOMAIN-SUFFIX,beacon.qq.com),(DST-PORT,80)
 AND,(DOMAIN,heic.alicdn.com),(DST-PORT,80)
 AND,(DOMAIN,dl.delivery.mp.microsoft.com),(DST-PORT,80)
-
+(DOMAIN-KEYWORD,video),(AND,(DOMAIN,pddpic.com),(DST-PORT,80))
 
 AND,(DOMAIN,passport.baidu.com),(DST-PORT,80)
 AND,(DOMAIN,socket.pan.baidu.com),(DST-PORT,80)
