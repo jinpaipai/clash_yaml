@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,ads.vungle.com
 DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,mintegral.net,DIRECT
-DOMAIN-SUFFIX,vungle.com,DIRECT
-DOMAIN-SUFFIX,kayzen.io,DIRECT
-
+DOMAIN-SUFFIX,mintegral.net
+DOMAIN-SUFFIX,vungle.com
+DOMAIN-SUFFIX,kayzen.io
+DOMAIN,csi.gstatic.com
