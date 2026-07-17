@@ -20,10 +20,3 @@ AND,(IP-CIDR,157.148.61.213/32,no-resolve),(DST-PORT,80)
 AND,(IP-CIDR,183.60.8.218/32,no-resolve),(DST-PORT,80)
 AND,(IP-CIDR,175.27.0.201/32,no-resolve),(DST-PORT,80)
 AND,(IP-CIDR,183.47.121.90/32,no-resolve),(DST-PORT,80)
-
-
-
-
-
-
-AND,(DOMAIN,down-update.qq.com),(DST-PORT,80)
