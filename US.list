@@ -1,8 +1,10 @@
+#saily
+DOMAIN-SUFFIX,saily.com
+
 #免费VPS
 DOMAIN,nat.freecloud.ltd
 DOMAIN,api_de2.888495.xyz
 DOMAIN,ws_de2.888495.xyz
-IP-CIDR6,2a12:de40:9::2ab:8/128,no-resolve
 
 # 邮箱
 DOMAIN,imap.gmail.com
