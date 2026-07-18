@@ -1,6 +1,7 @@
 #saily
 DOMAIN-SUFFIX,saily.com
-
+#xesim
+DOMAIN-SUFFIX,xesim.cc
 #免费VPS
 DOMAIN,nat.freecloud.ltd
 DOMAIN,api_de2.888495.xyz
