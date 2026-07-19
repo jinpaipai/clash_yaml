@@ -1,14 +1,11 @@
-AND,(RULE-SET,WeChat_list),(DST-PORT,80)
 AND,(DOMAIN-SUFFIX,wechatpay.cn),(DST-PORT,80)
 AND,(DOMAIN,xpis-xcdn.youku.com),(DST-PORT,80)
 AND,(DOMAIN-SUFFIX,beacon.qq.com),(DST-PORT,80)
 AND,(DOMAIN,heic.alicdn.com),(DST-PORT,80)
 AND,(DOMAIN,dl.delivery.mp.microsoft.com),(DST-PORT,80)
 AND,(DOMAIN-KEYWORD,video),(AND,(DOMAIN,pddpic.com),(DST-PORT,80))
-
 AND,(DOMAIN,passport.baidu.com),(DST-PORT,80)
 AND,(DOMAIN,socket.pan.baidu.com),(DST-PORT,80)
-
 AND,(IP-CIDR,221.181.99.30/32,no-resolve),(DST-PORT,80)
 AND,(IP-CIDR,221.181.99.34/32,no-resolve),(DST-PORT,80)
 AND,(IP-CIDR,101.91.37.39/32,no-resolve),(DST-PORT,80)
