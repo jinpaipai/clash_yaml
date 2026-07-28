@@ -1,1 +1,2 @@
+AND,(DOMAIN,www.jinpaipai.qzz.io),(DST-PORT,21321)
 AND,(DOMAIN,hkix.jinpaipai.qzz.io),(DST-PORT,61981)
