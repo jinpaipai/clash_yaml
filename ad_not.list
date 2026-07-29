@@ -1,22 +1,178 @@
+# Google AdMob / Google Ads
+DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,pagead2.googlesyndication.com
+DOMAIN-SUFFIX,mobileads.google.com
+
+# AppLovin
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
-DOMAIN-SUFFIX,inner-active.mobi
-DOMAIN,o-sdk.mediation.unity3d.com
-DOMAIN-SUFFIX,ads.vungle.com
+DOMAIN-SUFFIX,appLovinMAX.com
+
+# Unity Ads
 DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,mintegral.net
-DOMAIN-SUFFIX,vungle.com
-DOMAIN-SUFFIX,kayzen.io
-DOMAIN,csi.gstatic.com
-DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN,o-sdk.mediation.unity3d.com
 DOMAIN,gw1.mediation.unity3d.com
+
+# ironSource (Unity LevelPlay)
+DOMAIN-SUFFIX,ironsrc.com
+DOMAIN-SUFFIX,supersonicads.com
+DOMAIN-SUFFIX,is.com
+DOMAIN-SUFFIX,unitylevelplay.com
+
+# Vungle / Liftoff
+DOMAIN-SUFFIX,vungle.com
+DOMAIN-SUFFIX,vungle.cn
+DOMAIN-SUFFIX,liftoff.io
+DOMAIN-SUFFIX,liftoff-creatives.io
 DOMAIN,cdn.liftoff-creatives.io
-DOMAIN,cta.bidmachine.io
-DOMAIN,sdk-events.inner-active.mobi
 DOMAIN,adexp.liftoff.io
 DOMAIN,impression-asia.liftoff.io
-DOMAIN-SUFFIX,vungle.cn
+
+# Mintegral
+DOMAIN-SUFFIX,mintegral.com
+DOMAIN-SUFFIX,mintegral.net
+DOMAIN-SUFFIX,mtgglobals.com
+
+# InMobi
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN,sdk-events.inner-active.mobi
+
+# Pangle (TikTok)
+DOMAIN-SUFFIX,pangle.io
+DOMAIN-SUFFIX,pangleglobal.com
+DOMAIN-SUFFIX,sgsnssdk.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,bytedance.com
+
+# Chartboost
+DOMAIN-SUFFIX,chartboost.com
+
+# Digital Turbine / Fyber
+DOMAIN-SUFFIX,fyber.com
+DOMAIN-SUFFIX,dtignite.com
+DOMAIN-SUFFIX,digitalturbine.com
+
+# AdColony
+DOMAIN-SUFFIX,adcolony.com
+
+# Tapjoy
+DOMAIN-SUFFIX,tapjoy.com
+
+# BidMachine
+DOMAIN-SUFFIX,bidmachine.io
+DOMAIN,cta.bidmachine.io
+
+# BidSwitch
+DOMAIN-SUFFIX,bidswitch.net
+
+# PubMatic
+DOMAIN-SUFFIX,pubmatic.com
+
+# OpenX
+DOMAIN-SUFFIX,openx.net
+
+# Magnite / Rubicon
+DOMAIN-SUFFIX,magnite.com
+DOMAIN-SUFFIX,rubiconproject.com
+
+# Index Exchange
+DOMAIN-SUFFIX,indexww.com
+
+# Smaato
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,smaato.com
+
+# Ogury
+DOMAIN-SUFFIX,ogury.com
+
+# Verve / PubNative
+DOMAIN-SUFFIX,pubnative.net
+DOMAIN-SUFFIX,verve.com
+
+# Kayzen
+DOMAIN-SUFFIX,kayzen.io
+
+# Moloco
+DOMAIN-SUFFIX,moloco.com
+
+# Criteo
+DOMAIN-SUFFIX,criteo.com
+
+# Yahoo Ads
+DOMAIN-SUFFIX,flurry.com
+DOMAIN-SUFFIX,yahoo.com
+
+# Unity Mediation
+DOMAIN-SUFFIX,unityads.unity3d.com
+
+# Appodeal
+DOMAIN-SUFFIX,appodeal.com
+
+# TopOn
+DOMAIN-SUFFIX,toponad.com
+
+# Yandex Ads
+DOMAIN-SUFFIX,yandex.ru
+DOMAIN-SUFFIX,yandex.net
+
+# Huawei Ads
+DOMAIN-SUFFIX,hispace.hicloud.com
+DOMAIN-SUFFIX,ads.huawei.com
+
+# Xiaomi Ads
+DOMAIN-SUFFIX,ad.xiaomi.com
+
+# Oppo Ads
+DOMAIN-SUFFIX,adsfs.oppomobile.com
+
+# Vivo Ads
+DOMAIN-SUFFIX,ads.vivo.com.cn
+
+# Amazon Publisher Services
+DOMAIN-SUFFIX,aps.amazon.com
+
+# Start.io (StartApp)
+DOMAIN-SUFFIX,start.io
+DOMAIN-SUFFIX,startappservice.com
+DOMAIN-SUFFIX,startappexchange.com
+
+# Bidease
+DOMAIN-SUFFIX,bidease.com
 DOMAIN,track-us.bidease.com
 DOMAIN,creative-cdn77.bidease.com
+
+# Singular Attribution
+DOMAIN-SUFFIX,singular.net
 DOMAIN,sdk-api-v1.singular.net
+
+# AppsFlyer
+DOMAIN-SUFFIX,appsflyer.com
+
+# Adjust
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adj.st
+
+# Kochava
+DOMAIN-SUFFIX,kochava.com
+
+# Branch
+DOMAIN-SUFFIX,branch.io
+
+# Tenjin
+DOMAIN-SUFFIX,tenjin.io
+
+# Firebase Analytics
+DOMAIN,csi.gstatic.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,googleapis.com
+
+# Axon
 DOMAIN,prod-e.axon.ai
+DOMAIN-SUFFIX,axon.ai
