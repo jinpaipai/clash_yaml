@@ -58,5 +58,6 @@ DOMAIN-SUFFIX,rrcdnbf1.com
 DOMAIN-SUFFIX,lfthirtytwo.com
 
 AND,(DOMAIN-SUFFIX,akamaized.net),(DOMAIN-KEYWORD,-default)
+AND,(DOMAIN-SUFFIX,capcutvod.com),(DOMAIN-KEYWORD,-vod)
 
 
