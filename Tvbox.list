@@ -59,5 +59,6 @@ DOMAIN-SUFFIX,lfthirtytwo.com
 
 AND,(DOMAIN-SUFFIX,akamaized.net),(DOMAIN-KEYWORD,-default)
 AND,(DOMAIN-SUFFIX,capcutvod.com),(DOMAIN-KEYWORD,-vod)
-
+AND,(DOMAIN-SUFFIX,akamaized.net),(DOMAIN-KEYWORD,-tiktokcdn)
+AND,(DOMAIN-SUFFIX,akamaized.net),(DOMAIN-KEYWORD,v16)
 
