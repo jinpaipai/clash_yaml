@@ -56,6 +56,9 @@ DOMAIN-SUFFIX,modujx12.com
 DOMAIN-SUFFIX,maoyanplay.top
 DOMAIN-SUFFIX,rrcdnbf1.com
 DOMAIN-SUFFIX,lfthirtytwo.com
+DOMAIN-SUFFIX,p16-lp-sg.ibyteimg.com
+
+
 
 AND,(DOMAIN-SUFFIX,akamaized.net),(DOMAIN-KEYWORD,-default)
 AND,(DOMAIN-SUFFIX,capcutvod.com),(DOMAIN-KEYWORD,-vod)
