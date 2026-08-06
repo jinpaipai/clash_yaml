@@ -1,3 +1,4 @@
 IP-CIDR,43.152.180.110/32,no-resolve
 DOMAIN,down.val.qq.com
-AND,(DOMAIN-KEYWORD,estgcos),(DOMAIN-SUFFIX,upos-sz-estgcos.bilivideo.com)
+AND,(DOMAIN-KEYWORD,estgcos),(DOMAIN-SUFFIX,bilivideo.com)
+AND,(DOMAIN-KEYWORD,mirrorbd),(DOMAIN-SUFFIX,bilivideo.com)
