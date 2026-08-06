@@ -17,10 +17,12 @@ DOMAIN-SUFFIX,binancecnt.com
 # OKX
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okcoin.com
+PROCESS-NAME,com.okinc.okex.gp
 
 # Bybit
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bytick.com
+PROCESS-NAME,com.bybit.app
 
 # Gate
 DOMAIN-SUFFIX,gate.io
