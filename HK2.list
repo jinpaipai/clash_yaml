@@ -1,3 +1,9 @@
+#HK2
+DOMAIN,bitwarden.jinpaipai.top
+DOMAIN,2fauth.jinpaipai.top
+DOMAIN,substore.jinpaipai.top
+DOMAIN,e5.jinpaipai.top
+
 AND,(DOMAIN-SUFFIX,chosenonegames.com)(DOMAIN-KEYWORD,-gateway)
 
 # 成人网站
