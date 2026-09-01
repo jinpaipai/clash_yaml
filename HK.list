@@ -1,9 +1,11 @@
-#PoGoskill博客
-DOMAIN-SUFFIX,pogoskill.com
-
 #Bitwarden
 DOMAIN,bitwarden.jinpaipai.top
 DOMAIN,2fauth.jinpaipai.top
+DOMAIN,substore.jinpaipai.top
+DOMAIN,e5.jinpaipai.top
+
+#PoGoskill博客
+DOMAIN-SUFFIX,pogoskill.com
 
 #免费VPS
 DOMAIN,run.freecloud.ltd
