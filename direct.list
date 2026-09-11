@@ -42,6 +42,22 @@ DOMAIN-SUFFIX,limewave.net
 
 # 甲骨文
 DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,oraclecorp.com
+DOMAIN-SUFFIX,oraclecloudapps.com
+DOMAIN-SUFFIX,oraclecloudservices.com
+DOMAIN-SUFFIX,oraclecloudmarketplace.com
+DOMAIN-SUFFIX,oraclecloud.com.cn
+DOMAIN-SUFFIX,oracle.com.cn
+DOMAIN-SUFFIX,oracle.net
+DOMAIN-SUFFIX,oracleimg.com
+DOMAIN-SUFFIX,oracleinfinity.com
+DOMAIN-SUFFIX,oraclefoundation.org
+DOMAIN-SUFFIX,oracle-communications.com
+DOMAIN-SUFFIX,identity.oraclecloud.com
+DOMAIN-SUFFIX,oci.oraclecloud.com
+DOMAIN-SUFFIX,signup.oraclecloud.com
+DOMAIN-SUFFIX,cloud.oracle.com
 
 # WeChat
 DOMAIN-SUFFIX,qlogo.cn
