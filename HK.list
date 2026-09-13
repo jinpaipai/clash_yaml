@@ -1,4 +1,5 @@
-AND,(DOMAIN,alist.jinpaipai.top),(DST-PORT,443)
+DOMAIN,alist.jinpaipai.top
+AND,(DOMAIN,frp.jinpaipai.top),(DST-PORT,443)
 
 #PoGoskill博客
 DOMAIN-SUFFIX,pogoskill.com
