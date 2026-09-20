@@ -7,8 +7,8 @@ DOMAIN-SUFFIX,saily.com
 DOMAIN-SUFFIX,xesim.cc
 #免费VPS
 DOMAIN,nat.freecloud.ltd
-DOMAIN,api_de2.888495.xyz
-DOMAIN,ws_de2.888495.xyz
+
+DOMAIN-SUFFIX,dedirock.com
 
 # 邮箱
 DOMAIN,imap.gmail.com
