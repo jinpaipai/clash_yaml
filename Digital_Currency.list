@@ -27,6 +27,14 @@ PROCESS-NAME,com.bybit.app
 # Gate
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,gatecc.com
+DOMAIN-SUFFIX,gateio.com
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gateapi.io
+DOMAIN-SUFFIX,api.gateio.ws
+DOMAIN-SUFFIX,gateio.ws
+DOMAIN-SUFFIX,gatedata.org
+DOMAIN-SUFFIX,gatetrade.com
 
 # MEXC
 DOMAIN-SUFFIX,mexc.com
