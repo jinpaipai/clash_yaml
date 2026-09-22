@@ -1,3 +1,5 @@
+AND,(DOMAIN,www.jinpaipai.fun),(DST-PORT,34781)
+
 #Gamma
 AND,(DOMAIN-SUFFIX,transloadit.com),(DOMAIN-KEYWORD,-hu)
 
