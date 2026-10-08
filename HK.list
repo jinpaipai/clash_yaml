@@ -1,9 +1,13 @@
-DOMAIN,alist.jinpaipai.top
 AND,(DOMAIN,frp.jinpaipai.top),(DST-PORT,443)
 AND,(DOMAIN,www.jinpaipai.top),(DST-PORT,34784)
 AND,(DOMAIN,www2.jinpaipai.top),(DST-PORT,35214)
 AND,(DOMAIN,ssh.jinpaipai.top),(DST-PORT,57892)
 AND,(RULE-SET,vps_list),(DST-PORT,5001)
+DOMAIN,alist.jinpaipai.top
+DOMAIN,bitwarden.jinpaipai.top
+DOMAIN,2fauth.jinpaipai.top
+DOMAIN,substore.jinpaipai.top
+DOMAIN,e5.jinpaipai.top
 
 #PoGoskill博客
 DOMAIN-SUFFIX,pogoskill.com
