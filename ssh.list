@@ -1,3 +1,5 @@
+#Debian
+AND,(DOMAIN,ssh.jinpaipai.top),(DST-PORT,57892)
 #HK
 AND,(DOMAIN,www.jinpaipai.top),(DST-PORT,34784)
 #HK2
