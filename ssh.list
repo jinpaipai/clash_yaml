@@ -18,3 +18,5 @@ AND,(DOMAIN,us3.paipaijin.dpdns.org),(DST-PORT,31769)
 AND,(DOMAIN,api_de.888495.xyz),(DST-PORT,22)
 #JP
 AND,(DOMAIN,api_jp.888495.xyz),(DST-PORT,22)
+#JP
+AND,(DOMAIN,api_tr.888495.xyz),(DST-PORT,22)
