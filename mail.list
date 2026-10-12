@@ -1,0 +1,109 @@
+
+# Gmail / Google Mail
+DOMAIN,imap.gmail.com
+DOMAIN,smtp.gmail.com
+DOMAIN,pop.gmail.com
+DOMAIN,imap.googlemail.com
+DOMAIN,smtp.googlemail.com
+DOMAIN,pop.googlemail.com
+
+# Outlook / Hotmail / Microsoft 365
+DOMAIN,outlook.office365.com
+DOMAIN,smtp.office365.com
+DOMAIN,pop.office365.com
+DOMAIN,imap-mail.outlook.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,pop-mail.outlook.com
+DOMAIN,imap.hotmail.com
+DOMAIN,smtp.live.com
+
+# Yahoo Mail
+DOMAIN,imap.mail.yahoo.com
+DOMAIN,smtp.mail.yahoo.com
+DOMAIN,pop.mail.yahoo.com
+
+# AOL Mail
+DOMAIN,imap.aol.com
+DOMAIN,smtp.aol.com
+DOMAIN,pop.aol.com
+
+# Apple iCloud Mail
+DOMAIN,imap.mail.me.com
+DOMAIN,smtp.mail.me.com
+
+# Mail.ru
+DOMAIN,imap.mail.ru
+DOMAIN,smtp.mail.ru
+DOMAIN,pop.mail.ru
+
+# Yandex Mail
+DOMAIN,imap.yandex.com
+DOMAIN,smtp.yandex.com
+DOMAIN,pop.yandex.com
+DOMAIN,imap.yandex.ru
+DOMAIN,smtp.yandex.ru
+DOMAIN,pop.yandex.ru
+
+# Zoho Mail
+DOMAIN,imap.zoho.com
+DOMAIN,smtp.zoho.com
+DOMAIN,pop.zoho.com
+DOMAIN,imappro.zoho.com
+DOMAIN,smtppro.zoho.com
+DOMAIN,imap.zoho.eu
+DOMAIN,smtp.zoho.eu
+
+# Fastmail
+DOMAIN,imap.fastmail.com
+DOMAIN,smtp.fastmail.com
+DOMAIN,pop.fastmail.com
+
+# GMX Mail
+DOMAIN,imap.gmx.com
+DOMAIN,mail.gmx.com
+DOMAIN,pop.gmx.com
+DOMAIN,imap.gmx.net
+DOMAIN,mail.gmx.net
+DOMAIN,pop.gmx.net
+
+# Mail.com
+DOMAIN,imap.mail.com
+DOMAIN,smtp.mail.com
+DOMAIN,pop.mail.com
+
+# Mailbox.org
+DOMAIN,imap.mailbox.org
+DOMAIN,smtp.mailbox.org
+DOMAIN,pop.mailbox.org
+
+# Posteo
+DOMAIN,imap.posteo.de
+DOMAIN,smtp.posteo.de
+DOMAIN,pop.posteo.de
+
+# Proton Mail
+DOMAIN,mail.protonmail.ch
+DOMAIN,mail.proton.me
+DOMAIN,api.protonmail.ch
+DOMAIN,api.proton.me
+
+# Tuta Mail
+DOMAIN,mail.tutanota.com
+DOMAIN,app.tuta.com
+
+# Runbox
+DOMAIN,imap.runbox.com
+DOMAIN,smtp.runbox.com
+DOMAIN,pop.runbox.com
+
+# Mailfence
+DOMAIN,imap.mailfence.com
+DOMAIN,smtp.mailfence.com
+
+# IONOS Mail
+DOMAIN,imap.ionos.com
+DOMAIN,smtp.ionos.com
+DOMAIN,pop.ionos.com
+
+# Oqumail
+DOMAIN,mail.oqumail.com
