@@ -1,5 +1,3 @@
-AND,(DOMAIN,www.jinpaipai.fun),(DST-PORT,34781)
-
 #Gamma
 AND,(DOMAIN-SUFFIX,transloadit.com),(DOMAIN-KEYWORD,-hu)
 
@@ -9,23 +7,7 @@ DOMAIN-SUFFIX,saily.com
 DOMAIN-SUFFIX,xesim.cc
 #免费VPS
 DOMAIN,nat.freecloud.ltd
-
 DOMAIN-SUFFIX,dedirock.com
-
-# 邮箱
-DOMAIN,imap.gmail.com
-DOMAIN,smtp.gmail.com
-DOMAIN,outlook.office365.com
-DOMAIN,smtp.office365.com
-DOMAIN,imap-mail.outlook.com
-DOMAIN,smtp-mail.outlook.com
-DOMAIN,imap.mail.yahoo.com
-DOMAIN,smtp.mail.yahoo.com
-DOMAIN,imap.mail.ru
-DOMAIN,pop.mail.ru
-DOMAIN,smtp.mail.ru
-DOMAIN,imap.zoho.com
-DOMAIN,smtp.zoho.com
 
 # 域名
 DOMAIN-SUFFIX,digitalplat.org
@@ -101,9 +83,6 @@ DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,mdn.allizom.net
 DOMAIN-SUFFIX,mdn.mozit.cloud
 DOMAIN-SUFFIX,developer.allizom.org
-
-# 暗网
-DOMAIN-SUFFIX,onion,no-resolve
 
 #gamma
 DOMAIN-SUFFIX,gamma.app
