@@ -5,8 +5,6 @@ DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,gjfzpt.cn
 IP-CIDR,219.143.187.136/32,no-resolve
 
-# Quetta更新
-DOMAIN-SUFFIX,quetta.net
 
 # PikPak
 DOMAIN,access.mypikpak.com
