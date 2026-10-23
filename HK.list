@@ -5,6 +5,7 @@ AND,(DOMAIN,frp.jinpaipai.top),(DST-PORT,443)
 AND,(RULE-SET,vps_list),(DST-PORT,5001)
 AND,(DOMAIN,alist.jinpaipai.top),(DST-PORT,443)
 
+DOMAIN-SUFFIX,crxsoso.com
 
 #野草云
 DOMAIN-SUFFIX,yecaoyun.com
