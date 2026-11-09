@@ -1,7 +1,13 @@
+AND,(DOMAIN,alist.jinpaipai.top),(DST-PORT,443)
+AND,(DOMAIN,reward_panel.jinpaipai.top),(DST-PORT,443)
+AND,(DOMAIN,komari.jinpaipai.top),(DST-PORT,443)
+AND,(DOMAIN,bitwarden.jinpaipai.top),(DST-PORT,443)
+AND,(DOMAIN,substore.jinpaipai.top),(DST-PORT,443)
+AND,(DOMAIN,2fauth.jinpaipai.top),(DST-PORT,443)
+
+
 DOMAIN,gh-proxy.com
-
 DOMAIN,ghfast.top
-
 DOMAIN,res.ldrescdn.com
 DOMAIN,us.aws.cdn.hf.co
 DOMAIN,got-global-cdn.akamaized.net
