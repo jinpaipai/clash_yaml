@@ -1,5 +1,5 @@
 #Xbox
-DOMAIN,fg.microsoft.map.fastly.net
+
 
 # Epic
 DOMAIN,fastly-download.epicgames.com
@@ -33,10 +33,13 @@ DOMAIN-SUFFIX,cdnali.content.steamchina.com
 DOMAIN-SUFFIX,steamusercontenta.akamaihd.net
 
 # Xbox
-DOMAIN-SUFFIX,assets1.xboxlive.com
-DOMAIN-SUFFIX,assets2.xboxlive.com
+AND,(DOMAIN-KEYWORD,xboxlive),(DOMAIN-KEYWORD,assets)
 DOMAIN-SUFFIX,d1.xboxlive.com
 DOMAIN-SUFFIX,d2.xboxlive.com
+DOMAIN,5.xb.delivery.microsoft.com
+DOMAIN,fg.microsoft.map.fastly.net
+
+
 
 # R星
 DOMAIN-SUFFIX,ks-foundation.secure.dyn.riotcdn.net
