@@ -1,9 +1,4 @@
-AND,(DOMAIN,alist.jinpaipai.top),(DST-PORT,443)
-AND,(DOMAIN,reward_panel.jinpaipai.top),(DST-PORT,443)
-AND,(DOMAIN,komari.jinpaipai.top),(DST-PORT,443)
-AND,(DOMAIN,bitwarden.jinpaipai.top),(DST-PORT,443)
-AND,(DOMAIN,substore.jinpaipai.top),(DST-PORT,443)
-AND,(DOMAIN,2fauth.jinpaipai.top),(DST-PORT,443)
+
 
 DOMAIN,github.virtualbrowser.cc
 DOMAIN,gh-proxy.com
