@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,virtualearth.net
+AND,(DOMAIN-SUFFIX,akamaized.net),(DOMAIN-KEYWORD,kittyhawkworld)
+DOMAIN-KEYWORD,flightsimulator
