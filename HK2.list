@@ -6,8 +6,7 @@ AND,(DOMAIN,substore.jinpaipai.top),(DST-PORT,443)
 AND,(DOMAIN,2fauth.jinpaipai.top),(DST-PORT,443)
 AND,(DOMAIN,e5.jinpaipai.top),(DST-PORT,443)
 AND,(DOMAIN,database.jinpaipai.top),(DST-PORT,443)
-
-
+AND,(DOMAIN,image.jinpaipai.qzz.io),(DST-PORT,443)
 
 
 #HK
