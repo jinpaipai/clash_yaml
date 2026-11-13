@@ -2,7 +2,7 @@ AND,(DOMAIN-SUFFIX,jinpaipai.top),(DST-PORT,48712)
 AND,(DOMAIN-SUFFIX,jinpaipai.top),(DST-PORT,35687)
 AND,(DOMAIN,mihomo.jinpaipai.top),(DST-PORT,36574)
 AND,(DOMAIN,frp.jinpaipai.top),(DST-PORT,443)
-AND,(RULE-SET,vps_list),(DST-PORT,5001)
+AND,(DOMAIN-SUFFIX,jinpaipai.top),(DST-PORT,5001)
 
 
 DOMAIN-SUFFIX,crxsoso.com
