@@ -13,3 +13,16 @@ AND,(DOMAIN,database.jinpaipai.top),(DST-PORT,443)
 #HK
 AND,(DOMAIN,www.jinpaipai.top),(DST-PORT,52478)
 AND,(DOMAIN,api.jinpaipai.top),(DST-PORT,36897)
+#HK2
+AND,(DOMAIN,www.jinpaipai.qzz.io),(DST-PORT,52478)
+AND,(DOMAIN,api.jinpaipai.qzz.io),(DST-PORT,23697)
+#US
+AND,(DOMAIN,www.jinpaipai.fun),(DST-PORT,34879)
+AND,(DOMAIN,api.jinpaipai.fun),(DST-PORT,39521)
+#US2
+AND,(DOMAIN,us.paipaijin.dpdns.org),(DST-PORT,25414)
+AND,(DOMAIN,api.paipaijin.dpdns.org),(DST-PORT,36874)
+#JP
+AND,(DOMAIN,api_jp.888495.xyz),(DST-PORT,23541)
+#TR
+AND,(DOMAIN,api_tr.888495.xyz),(DST-PORT,35697)
