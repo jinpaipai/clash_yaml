@@ -4,3 +4,8 @@ AND,(DOMAIN,komari.jinpaipai.top),(DST-PORT,443)
 AND,(DOMAIN,bitwarden.jinpaipai.top),(DST-PORT,443)
 AND,(DOMAIN,substore.jinpaipai.top),(DST-PORT,443)
 AND,(DOMAIN,2fauth.jinpaipai.top),(DST-PORT,443)
+
+
+#HK
+AND,(DOMAIN,www.jinpaipai.top),(DST-PORT,52478)
+AND,(DOMAIN,api.jinpaipai.top),(DST-PORT,36897)
