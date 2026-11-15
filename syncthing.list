@@ -1,1 +1,2 @@
 AND,(DOMAIN-SUFFIX,paipaijin.dpdns.org),(DST-PORT,22067)
+AND,(DOMAIN-SUFFIX,paipaijin.dpdns.org),(DST-PORT,8443)
