@@ -25,3 +25,6 @@ AND,(DOMAIN,api.paipaijin.dpdns.org),(DST-PORT,36874)
 AND,(DOMAIN,api_jp.888495.xyz),(DST-PORT,23541)
 #TR
 AND,(DOMAIN,api_tr.888495.xyz),(DST-PORT,35697)
+
+
+DOMAIN,4kwallpapers.com
