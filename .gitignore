@@ -1,1 +1,4 @@
 .hermes-env.sh
+
+# Session working outputs (local only)
+sessions/*/output/
