@@ -1,4 +1,5 @@
 .hermes-env.sh
 
-# Session working outputs (local only)
-sessions/*/output/
+# Local working directory (not pushed to remote)
+mihomo/output/
+mihomo/rules/
