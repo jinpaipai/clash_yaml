@@ -8,23 +8,73 @@ DOMAIN-SUFFIX,bitgetapp.com
 # Neverless
 DOMAIN-SUFFIX,neverless.com
 
-# Binance
+# Binance 币安
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.charity
+DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnappzh.com
+DOMAIN-SUFFIX,bnappzh.mobi
+DOMAIN-SUFFIX,binancezh.be
+DOMAIN-SUFFIX,binancezh.biz
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binancezh.co
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binancezh.info
+DOMAIN-SUFFIX,binancezh.ink
+DOMAIN-SUFFIX,binancezh.kim
+DOMAIN-SUFFIX,binancezh.link
+DOMAIN-SUFFIX,binancezh.live
+DOMAIN-SUFFIX,binancezh.mobi
+DOMAIN-SUFFIX,binancezh.net
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binancezh.sh
+DOMAIN-SUFFIX,binancezh.top
+PROCESS-NAME,Binance.exe
+DOMAIN-KEYWORD,binance
 
 # OKX
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okcoin.com
-PROCESS-NAME,com.okinc.okex.gp
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.ac
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+PROCESS-NAME,OKX.exe
+DOMAIN-KEYWORD,okx
 
 # Bybit
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bymj.io
 PROCESS-NAME,com.bybit.app
 
-# Gate
+# Gate.io
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,gate.com
 DOMAIN-SUFFIX,gatecc.com
@@ -35,24 +85,32 @@ DOMAIN-SUFFIX,api.gateio.ws
 DOMAIN-SUFFIX,gateio.ws
 DOMAIN-SUFFIX,gatedata.org
 DOMAIN-SUFFIX,gatetrade.com
+DOMAIN-SUFFIX,gate.tv
+DOMAIN-SUFFIX,gateio.live
+DOMAIN-SUFFIX,gateio.services
 
 # MEXC
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,mexc.fm
+DOMAIN-SUFFIX,mexc.co
+DOMAIN-SUFFIX,mexcsensors.com
 
 # KuCoin
 DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,kucoin.plus
 
 # HTX（原 Huobi）
 DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,huobi.pro
+DOMAIN-SUFFIX,huobi.me
+DOMAIN-SUFFIX,huobi.sc
+DOMAIN-SUFFIX,huobiasia.vip
+DOMAIN-SUFFIX,huobigroup.com
+DOMAIN-SUFFIX,huobitoken.com
 
-# Bitfinex
-DOMAIN-SUFFIX,bitfinex.com
-
-# Kraken
-DOMAIN-SUFFIX,kraken.com
+# BingX
+DOMAIN-SUFFIX,bingx.com
 
 # Coinbase
 DOMAIN-SUFFIX,coinbase.com
@@ -60,6 +118,14 @@ DOMAIN-SUFFIX,coinbasecdn.net
 
 # Crypto.com
 DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,cwallet.com
+
+# Bitfinex
+DOMAIN-SUFFIX,bitfinex.com
+
+# Kraken
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.onl
 
 # Bitstamp
 DOMAIN-SUFFIX,bitstamp.net
@@ -67,26 +133,8 @@ DOMAIN-SUFFIX,bitstamp.net
 # Gemini
 DOMAIN-SUFFIX,gemini.com
 
-# BitMart
-DOMAIN-SUFFIX,bitmart.com
-
-# CoinEx
-DOMAIN-SUFFIX,coinex.com
-
-# Pionex
-DOMAIN-SUFFIX,pionex.com
-
-# BingX
-DOMAIN-SUFFIX,bingx.com
-
-# Backpack Exchange
-DOMAIN-SUFFIX,backpack.exchange
-
 # Deribit
 DOMAIN-SUFFIX,deribit.com
-
-# WhiteBIT
-DOMAIN-SUFFIX,whitebit.com
 
 # LBank
 DOMAIN-SUFFIX,lbank.com
@@ -108,3 +156,83 @@ DOMAIN-SUFFIX,upbit.com
 
 # Bithumb
 DOMAIN-SUFFIX,bithumb.com
+
+# CEX.IO
+DOMAIN-SUFFIX,cex.io
+
+# D'CENT
+DOMAIN-SUFFIX,dcentwallet.com
+
+# Liquid
+DOMAIN-SUFFIX,liquid.com
+
+# Poloniex
+DOMAIN-SUFFIX,poloniex.com
+
+# BitFlyer
+DOMAIN-SUFFIX,bitflyer.com
+DOMAIN-SUFFIX,bitflyer.jp
+
+# Coincheck
+DOMAIN-SUFFIX,coincheck.com
+
+# dYdX
+DOMAIN-SUFFIX,dydx.exchange
+
+# Hyperliquid
+DOMAIN-SUFFIX,hyperliquid.xyz
+
+# PancakeSwap
+DOMAIN-SUFFIX,pancakeswap.finance
+
+# Uniswap
+DOMAIN-SUFFIX,uniswap.org
+
+# MetaMask
+DOMAIN-SUFFIX,metamask.io
+
+# OneKey
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,onekey-asset.com
+DOMAIN-SUFFIX,onekeycn.com
+
+# DeBank
+DOMAIN-SUFFIX,debank.com
+
+# Coinglass
+DOMAIN-SUFFIX,coinglass.com
+
+# Redotpay
+DOMAIN-SUFFIX,redotpay.com
+DOMAIN-SUFFIX,redotpay.zendesk.com
+
+# Polymarket
+DOMAIN-SUFFIX,polymarket.com
+
+# MegaETH
+DOMAIN-SUFFIX,megaeth.com
+
+# Base
+DOMAIN-SUFFIX;base.org
+
+# CoinGecko
+DOMAIN-SUFFIX,coingecko.com
+
+# CoinMarketCap
+DOMAIN-SUFFIX,coinmarketcap.com
+
+# DODO
+DOMAIN-SUFFIX,dodoex.io
+
+# Blockchain Explorers & APIs
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,solscan.io
+DOMAIN-SUFFIX,polygonscan.com
+DOMAIN-SUFFIX,arbiscan.io
+DOMAIN-SUFFIX,zksync.io
+DOMAIN-SUFFIX,zkscan.io
+DOMAIN-SUFFIX,blockchair.com
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,onfinality.io
+DOMAIN-SUFFIX,blockfrost.io
