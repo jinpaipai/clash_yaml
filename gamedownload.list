@@ -1,15 +1,21 @@
-# Epic
+# Epic Games
 DOMAIN,fastly-download.epicgames.com
 DOMAIN-SUFFIX,epicgamesdownload11251447533.file.myqcloud.com
 DOMAIN,egdownload.fastly-edge.com
+DOMAIN-SUFFIX,download[1-4].epicgames.com
+DOMAIN-SUFFIX,epicgames-download1.akamaized.net
+DOMAIN-SUFFIX,cdn[1-4].unrealengine.com
+DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
 
-# Ubisoft
+# Ubisoft Connect
 DOMAIN,ubisoftconnect.cdn.ubi.com
 DOMAIN,ubisoftconnect.eo-edgefunctions7.com
 DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN-SUFFIX,uplaypc-s-ubisoft-ww.cdn.ubi.com
 DOMAIN,static3.cdn.ubi.com
+DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubionline.com.cn
 
-# Steam下载
+# Steam 下载
 DOMAIN,client-update.steamstatic.com
 DOMAIN,steamcloud-hk.storage.googleapis.com
 DOMAIN,steamcloudhk2.blob.core.windows.net
@@ -28,17 +34,40 @@ DOMAIN-SUFFIX,cdnws.content.steamchina.com
 DOMAIN-SUFFIX,cdnqc.content.steamchina.com
 DOMAIN-SUFFIX,cdnali.content.steamchina.com
 DOMAIN-SUFFIX,steamusercontenta.akamaihd.net
+DOMAIN-SUFFIX,trts.baishancdnx.cn
+DOMAIN-SUFFIX,alibaba.cdn.steampipe.steamcontent.com
 
-# Xbox
+# Xbox / Microsoft Store 下载
 AND,(DOMAIN-KEYWORD,xboxlive),(DOMAIN-KEYWORD,assets)
 DOMAIN-SUFFIX,d1.xboxlive.com
 DOMAIN-SUFFIX,d2.xboxlive.com
 DOMAIN,5.xb.delivery.microsoft.com
 DOMAIN,fg.microsoft.map.fastly.net
+DOMAIN-SUFFIX,assets[1-2].xboxlive.com
+DOMAIN-SUFFIX,xvcf[1-2].xboxlive.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,assets[1-2].xboxlive.cn
 
-# R星
+# Rockstar Games
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+
+# Riot Games（含 Valorant）
 DOMAIN-SUFFIX,ks-foundation.secure.dyn.riotcdn.net
 DOMAIN-SUFFIX,riot-client.dyn.riotcdn.net
+DOMAIN-SUFFIX,lion.secure.dyn.riotcdn.net
+DOMAIN-SUFFIX,lol.secure.dyn.riotcdn.net
+DOMAIN-SUFFIX,valorant.secure.dyn.riotcdn.net
+DOMAIN-SUFFIX,wildrift.secure.dyn.riotcdn.net
+DOMAIN-SUFFIX,mock-game.secure.dyn.riotcdn.net
+DOMAIN-SUFFIX,ares.secure.dyn.riotcdn.net
+DOMAIN-SUFFIX,bacon.secure.dyn.riotcdn.net
+DOMAIN-SUFFIX,ritoplus.secure.dyn.riotcdn.net
+DOMAIN-SUFFIX,wildrift.dyn.riotcdn.net
+DOMAIN-SUFFIX,lol.dyn.riotcdn.net
+DOMAIN-SUFFIX,dyn.riotcdn.net
+DOMAIN-SUFFIX,valorant.dyn.riotcdn.net
+DOMAIN-SUFFIX,global.dyn.riotcdn.net
 DOMAIN-SUFFIX,content.cfx.re
 
 # EA
@@ -46,18 +75,39 @@ DOMAIN,ssllvlt.cdn.ea.com
 DOMAIN,ssl-lvlt.cdn.ea.com
 DOMAIN,origina.akamaihd.net
 DOMAIN,origin-a.akamaihd.net
+DOMAIN-SUFFIX,prod.cloudflare.cdn.ea.com
 
-# 麻将
+# Mojang（我的世界）
 DOMAIN-SUFFIX,redstone-launcher.mojang.com
 DOMAIN-SUFFIX,launcher.mojang.com
 
-# 战网
+# 战网 Blizzard
 DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn
 DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn
 DOMAIN-SUFFIX,eu.cdn.blizzard.com
+DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
+DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
+DOMAIN-SUFFIX,level3.blizzard.com
+DOMAIN-SUFFIX,level3.ssl.blizzard.com
+DOMAIN-SUFFIX,kr.cdn.blizzard.com
+DOMAIN-SUFFIX,us.cdn.blizzard.com
+DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
+DOMAIN-SUFFIX,blzdist-phx.necdn.leihuo.netease.com
+DOMAIN-SUFFIX,blzdist-wow.necdn.leihuo.netease.com
+DOMAIN-SUFFIX,blzdist-hs.necdn.leihuo.netease.com
+DOMAIN-SUFFIX,blzdist-di.necdn.leihuo.netease.com
+DOMAIN-SUFFIX,blzdist-ow.necdn.leihuo.netease.com
+DOMAIN-SUFFIX,blzdist-d3.necdn.leihuo.netease.com
 
 # GOG
 DOMAIN-SUFFIX,gog.qtlglb.com
+DOMAIN-SUFFIX,gog-cdn.akamaized.net
+DOMAIN-SUFFIX,gog-cdn-fastly.gog.com
+DOMAIN-SUFFIX,gog-cdn-fastly-cp77.gog.com
+
+# Bethesda（上古卷轴/辐射/Doom）
+DOMAIN-SUFFIX,content.cdp.bethesda.net
+DOMAIN-SUFFIX,download.cdp.bethesda.net
 
 # 雷电模拟器
 DOMAIN-SUFFIX,encdn.ldmnq.com
@@ -69,15 +119,17 @@ DOMAIN,download.dgameglobal.com
 # 网易下载
 DOMAIN-SUFFIX,gph.easebar.com
 
-# 绝区零
+# 米哈游（原神/绝区零/鸣潮）
 DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
-
-# 原神
 DOMAIN-SUFFIX,autopatchhk.yuanshen.com
-
-# 鸣潮
 DOMAIN-SUFFIX,hw-pcdownload-aliyun.aki-game.net
 DOMAIN-SUFFIX,hw-pcdownload-akamai.aki-game.net
+
+# Nintendo Switch eShop / 更新
+DOMAIN-SUFFIX,ccs.cdn.wup.shop.nintendo.com
+DOMAIN-SUFFIX,ccs.cdn.wup.shop.nintendo.net
+DOMAIN-SUFFIX,geisha-wup.cdn.nintendo.net
+DOMAIN-SUFFIX,nintendoswitch.cn
 
 # Gal
 DOMAIN-SUFFIX,galgame.ing
