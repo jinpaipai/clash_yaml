@@ -1,0 +1,53 @@
+# FakeIP 直连黑名单（不含 cn / !cn 已有条目）
+# 来源：原 Surge 规则集，经去重后转换为 mihomo 格式
+# 已剔除与 fakeipfilter-cn.list、fakeipfilter-!cn.list 重合的条目
+
+# ── IPv6 测试 ──
+DOMAIN,test-ipv6.com
+DOMAIN,ipv6-test.com
+
+# ── 钉钉 ──
+DOMAIN-SUFFIX,ddurl.to
+DOMAIN-SUFFIX,dingding.xin
+DOMAIN-SUFFIX,dingtalk.cn
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalk.net
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,dingtalkcloud.com
+DOMAIN-SUFFIX,laiwang.com
+DOMAIN-SUFFIX,lwurl.to
+DOMAIN-SUFFIX,ztna-dingtalk.com
+
+# ── 任天堂联机 ──
+DOMAIN-SUFFIX,srv.nintendo.net
+DOMAIN-SUFFIX,n.n.srv.nintendo.net
+
+# ── Mozilla STUN ──
+DOMAIN-SUFFIX,stun.services.mozilla.com
+
+# ── LAN / 私有网络保留 ──
+DOMAIN-SUFFIX,lan
+DOMAIN-SUFFIX,localdomain
+DOMAIN-SUFFIX,home.arpa
+DOMAIN-SUFFIX,direct
+DOMAIN-SUFFIX,invalid
+DOMAIN-SUFFIX,test
+DOMAIN-SUFFIX,local
+
+# ── Windows 工作组 ──
+DOMAIN,WORKGROUP
+
+# ── 微软连通性探测 ──
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+
+# ── NTP 时间同步 ──
+DOMAIN-SUFFIX,time.edu.cn
+DOMAIN-SUFFIX,ntp.org.cn
+DOMAIN-SUFFIX,pool.ntp.org
+
+# ── Sony PlayStation STUN ──
+DOMAIN-SUFFIX,stun.playstation.net
+
+# ── Xbox Live（mihomo 不支持多级通配符，用 keyword 兜底）──
+DOMAIN-KEYWORD,xboxlive
