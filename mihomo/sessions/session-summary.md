@@ -36,13 +36,13 @@
 ---
 
 ## 关键操作路径
-- git 工作目录：`D:\文档\hermes_jinpai_project\github`
-- 远端：https://github.com/jinpaipai/clash_yaml.git
-- 每次使用 gh 前需在终端执行：
-  ```bash
-  export PATH="$PATH:/c/Program Files/GitHub CLI"
-  export GH_TOKEN="<your-token>"
-  ```
+- git 工作目录（远端 clash_yaml）：`D:\文档\hermes_jinpai_project\github`
+- mihomo 本地工作区：`D:\文档\hermes_jinpai_project\github\mihomo\`
+  - `mihomo/rules/` — 规则文件副本（本地参考，不推送到远端）
+  - `mihomo/sessions/` — 对话摘要记录
+  - `mihomo/output/` — 临时输出文件（已加入 .gitignore）
+- gh CLI 路径：`/c/Program Files/GitHub CLI/gh.exe`
+- token：存于 `~/.git-credentials`，使用 `GH_TOKEN` 环境变量传入
 
 ---
 
