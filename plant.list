@@ -1,0 +1,29 @@
+# Microsoft Flight Simulator 大流量域名（卫星影像/游戏资源/在线服务）
+# 覆盖 virtualearth 瓦片、Akamai/KittyHawk CDN、PlayFab、Azure 边缘节点
+# 匹配到的请求走 PROXY，以加速国内下载速度并避免绕路
+
+# ── 地图瓦片 & 影像（AKAI 后端 → virtualearth.net）──
+DOMAIN-SUFFIX,virtualearth.net
+
+# ── Akamai / KittyHawk CDN（卫星图块、地形、大气渲染）──
+DOMAIN-SUFFIX,sunriseworld.akamaized.net
+DOMAIN-SUFFIX,tiles.sketchup.arcgisonline.com
+DOMAIN-SUFFIX,tile.virtualearth.net
+DOMAIN-SUFFIX,aerial1.maptiler.com
+
+# ── Azure Edge（khstorelive、cdn-shared 等 MSFS 专属节点）──
+DOMAIN-SUFFIX,khstorelive.azureedge.net
+DOMAIN-SUFFIX,cdn-shared-wca-endpoint.azureedge.net
+DOMAIN-SUFFIX,microsoftflight.github.io
+
+# ── PlayFab 多人/市场（含内容分发关键词）──
+DOMAIN-SUFFIX,playfabapi.com
+AND,(DOMAIN-KEYWORD,content),(DOMAIN-SUFFIX,playfab.com)
+AND,(DOMAIN-KEYWORD,marketplace),(DOMAIN-SUFFIX,playfab.com)
+
+# ── 微软 Live / Xbox / Epic Launcher（登录 & 验证）──
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epiccdn.net
+DOMAIN-SUFFIX,msftidentity.com
