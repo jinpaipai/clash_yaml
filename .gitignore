@@ -1,5 +1,4 @@
 .hermes-env.sh
 
-# Local working directory (not pushed to remote)
-mihomo/output/
-mihomo/rules/
+# Local working directory temp outputs (not pushed to remote)
+Mihomo/output/
