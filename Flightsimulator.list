@@ -2,3 +2,20 @@ DOMAIN-SUFFIX,virtualearth.net
 DOMAIN-KEYWORD,flightsimulator
 AND,(DOMAIN-SUFFIX,akamaized.net),(DOMAIN-KEYWORD,kittyhawk)
 AND,(DOMAIN-KEYWORD,content),(DOMAIN-SUFFIX,playfab.com)
+# ── Azure Edge CDN（游戏资源/市集下载）──
+DOMAIN-SUFFIX,khstorelive.azureedge.net
+DOMAIN-SUFFIX,khmarketcdn.azureedge.net
+# ── Akamai Sunrise CDN（卫星影像/市场/天气流）──
+DOMAIN-SUFFIX,sunriseworld.akamaized.net
+DOMAIN-SUFFIX,sunrisecontent.akamaized.net
+DOMAIN-SUFFIX,sunrisemarketplace.akamaized.net
+DOMAIN-SUFFIX,sunriseweather.akamaized.net
+# ── msgamestudios 游戏服务集群──
+DOMAIN-SUFFIX,atlas-api.prod.sunrise.msgamestudios.com
+DOMAIN-SUFFIX,cds-client-sr-live.prod.sunrise.msgamestudios.com
+DOMAIN-SUFFIX,userstorage-sr-live.prod.sunrise.msgamestudios.com
+DOMAIN-SUFFIX,purchase-sr-live.prod.sunrise.msgamestudios.com
+DOMAIN-SUFFIX,drm-sr-live.prod.sunrise.msgamestudios.com
+# ── PlayFab UGC 内容目录──
+DOMAIN-SUFFIX,content1.prod.catalog.playfab.com
+DOMAIN-SUFFIX,content2.prod.catalog.playfab.com
