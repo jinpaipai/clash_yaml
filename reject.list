@@ -1,3 +1,5 @@
+AND,((RULE-SET,cn!_domain),(DST-PORT,443),(NETWORK,UDP))
+
 #Bilibili
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 
