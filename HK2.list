@@ -25,7 +25,9 @@ AND,(DOMAIN,api.paipaijin.dpdns.org),(DST-PORT,36874)
 AND,(DOMAIN,api_jp.888495.xyz),(DST-PORT,23541)
 #TR
 AND,(DOMAIN,api_tr.888495.xyz),(DST-PORT,35697)
-
+#HKL
+AND,(DOMAIN,www2.jinpaipai.top),(DST-PORT,24422)
+AND,(DOMAIN,www2.jinpaipai.top),(DST-PORT,15421)
 
 DOMAIN,4kwallpapers.com
 DOMAIN-SUFFIX,mediation.unity3d.com
