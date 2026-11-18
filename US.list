@@ -1,6 +1,9 @@
 #Gamma
 AND,(DOMAIN-SUFFIX,transloadit.com),(DOMAIN-KEYWORD,-hu)
 
+#workbuddy
+DOMAIN-SUFFIX,workbuddy.ai
+
 #saily
 DOMAIN-SUFFIX,saily.com
 #xesim
