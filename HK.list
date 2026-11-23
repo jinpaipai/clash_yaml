@@ -3,6 +3,7 @@ AND,(DOMAIN-SUFFIX,jinpaipai.top),(DST-PORT,35687)
 AND,(DOMAIN,mihomo.jinpaipai.top),(DST-PORT,36574)
 AND,(DOMAIN,frp.jinpaipai.top),(DST-PORT,443)
 AND,(DOMAIN-SUFFIX,jinpaipai.top),(DST-PORT,5001)
+AND,(DOMAIN,rustdesk.jinpaipai.top),(DST-PORT,21117)
 
 
 DOMAIN-SUFFIX,crxsoso.com
