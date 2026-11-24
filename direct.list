@@ -3,6 +3,8 @@ PROCESS-NAME,com.android.bankabc
 PROCESS-NAME,cmb.pb
 PROCESS-NAME,com.icbc
 
+DOMAIN-SUFFIX,seagm.com
+
 # 懒洋洋
 DOMAIN-SUFFIX,haokazhijia.net
 
