@@ -1,10 +1,13 @@
 # FakeIP 直连黑名单（不含 cn / !cn 已有条目）
 # 来源：原 Surge 规则集，经去重后转换为 mihomo 格式
 # 已剔除与 fakeipfilter-cn.list、fakeipfilter-!cn.list 重合的条目
+DOMAIN-SUFFIX,xboxlive.com
+
 
 # ── IPv6 测试 ──
 DOMAIN,test-ipv6.com
 DOMAIN,ipv6-test.com
+
 
 # ── 钉钉 ──
 DOMAIN-SUFFIX,ddurl.to
